@@ -9,6 +9,6 @@ Derived from the [lyrasis/blazegraph project](https://github.com/lyrasis/docker-
 
 ```bash
 docker build -t sdaas-rdfstore .
-docker run --name blazegraph -d -p 8889:8080 sdaas-rdfstore
+docker run --name blazegraph -d -p 8080:8080 sdaas-rdfstore
 docker logs -f blazegraph
 ```
