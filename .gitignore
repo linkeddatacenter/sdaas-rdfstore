@@ -2,3 +2,4 @@
 distrib/
 .project
 .settings/
+/.shared/
