@@ -15,7 +15,7 @@ TODO: enable precompressed files
 - customization of workbench UI
 - static file serving in shared area
 
-## 1.1.0
+## 1.0.0
 
 First release, aligned with Blazegraph 2.1.5
 
