@@ -2,8 +2,7 @@
 # Permission to copy and modify is granted under the MIT license
 FROM bash as build-stage
 
-ENV BLAZEGRAPH_VERSION=CANDIDATE_2_1_5 
-ENV BLAZEGRAPH_VERSION_URL https://github.com/blazegraph/database/releases/download/BLAZEGRAPH_RELEASE_${BLAZEGRAPH_VERSION}/blazegraph.war
+ENV BLAZEGRAPH_VERSION_URL https://github.com/blazegraph/database/releases/download/BLAZEGRAPH_2_1_6_RC/blazegraph.war
 
 RUN apk --no-cache add unzip
 
@@ -16,21 +15,24 @@ RUN unzip /blazegraph.war -d /sdaas
 COPY webapps/sdaas/html /sdaas/html
 
 ### production stage ###
-FROM jetty:9-jre8-alpine
+FROM jetty:9.4
 
 LABEL authors="enrico@linkeddata.center"
 
 ENV JAVA_OPTS="-Xmx1g" \
+    JETTY_HOME=/var/lib/jetty \
     JETTY_WEBAPPS=/var/lib/jetty/webapps \
     BLAZEGRAPH_UID=888 \
     BLAZEGRAPH_GID=888
 
+
+COPY helpers/sdaas-st* /
+COPY helpers/*.xml ${JETTY_HOME}/
+
 USER root
+RUN chown jetty.jetty /sdaas-st* ; chmod +rx /sdaas-st* 
 
-COPY helpers/* /
-
-RUN apk add --no-cache openssl bash su-exec sudo && \
-    chmod +rx /sdaas-st* 
+# USER jetty
  
 COPY --from=build-stage /sdaas ${JETTY_WEBAPPS}/sdaas
 COPY webapps/shared ${JETTY_WEBAPPS}/shared

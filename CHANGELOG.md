@@ -6,7 +6,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
-TODO: enable precompressed files
+### Changed
+
+- updated to jetty 9.5
+- updated to Blazegraph 2.1.6RC
 
 ## [1.1.0]
 

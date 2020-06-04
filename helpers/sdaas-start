@@ -6,7 +6,7 @@
 function USAGE {
 	>&2 cat <<-EOT
 		Smart Data as a Service (SDaaS) platform community edition
-		Copyright (C) 2018 http://linkeddata.center/
+		Copyright (C) 2018-2020 http://linkeddata.center/
 			
 		startup options:
 		
@@ -48,20 +48,20 @@ while true; do
 done
 
 if [  $READONLY -eq 1 ]; then 
-	cp /readonly-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
+	cp ${JETTY_HOME}/readonly-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
 else
-	cp /writable-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
+	cp ${JETTY_HOME}/writable-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
 fi
 
-STARTUP_CMD="sudo -u jetty java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
+STARTUP_CMD="jetty java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
 
 echo -n "SDaaS engine starting..."
 
 if [ $FOREGROUND -eq 1 ]; then
 	echo "Press ctrl-c to stop."
-	cd /var/lib/jetty &&  $STARTUP_CMD
+	cd ${JETTY_HOME} &&  $STARTUP_CMD
 else
 	echo "as daemon"
-	cd /var/lib/jetty &&  $STARTUP_CMD &
+	cd ${JETTY_HOME} &&  $STARTUP_CMD &
 	sleep 10
 fi
