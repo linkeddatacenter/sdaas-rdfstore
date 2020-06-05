@@ -6,7 +6,23 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
-TODO: enable precompressed files
+## [2.0.0] 
+
+### Added
+
+- GDAAS_SIZE optimization
+
+### Changed
+
+- now based on debian 10 distribution
+- updated to jetty 9.4 with jdk13 slim
+- updated to Blazegraph 2.1.6RC
+- updated readonly and writable helpers on new web.xml format
+- the docker default user changed from root to Jetty
+
+### Removed
+
+- removed dependecies to getop in sdaas-start
 
 ## [1.1.0]
 
@@ -20,5 +36,6 @@ TODO: enable precompressed files
 First release, aligned with Blazegraph 2.1.5
 
 
-[Unreleased]: https://bitbucket.org/linkeddatacenter/sdaas/compare/master%0D1.1.0
+[Unreleased]: https://bitbucket.org/linkeddatacenter/sdaas/compare/master%0D2.0.0
+[2.0.0]: https://bitbucket.org/linkeddatacenter/sdaas/compare/2.0.0%0D1.1.0
 [1.1.0]: https://bitbucket.org/linkeddatacenter/sdaas/compare/1.1.0%0D1.0.0

@@ -6,7 +6,7 @@
 function USAGE {
 	>&2 cat <<-EOT
 		Smart Data as a Service (SDaaS) platform community edition
-		Copyright (C) 2018 http://linkeddata.center/
+		Copyright (C) 2018-2020 http://linkeddata.center/
 			
 		startup options:
 		
@@ -21,13 +21,9 @@ function USAGE {
 
 
 ### Parse command line options
-__parsed=$(getopt -options="" --longoptions=foreground,readonly --name "$0" -- "$@") || USAGE
-eval set -- "$__parsed"
-unset __parsed 
-
 FOREGROUND=0
 READONLY=0
-while true; do
+while [ "$#" -gt 0 ]; do
 	case "$1" in
 	    --foreground)
 	    	FOREGROUND=1
@@ -38,30 +34,55 @@ while true; do
             shift
 	    	;;
         --)
-            shift
             break
         ;;
 	    *)
 	        USAGE
 	    ;;
 	esac
+	shift
 done
 
+case "${GDAAS_SIZE:-micro}" in
+    micro)
+    	JAVA_OPTS="-Xmx1g"
+    	;;
+    small)
+    	JAVA_OPTS="-Xmx2g"
+    	;;
+    medium)
+    	JAVA_OPTS="-Xmx4g"
+    	;;
+	large)
+    	JAVA_OPTS="-Xmx8g"
+    	;;
+	xlarge)
+    	JAVA_OPTS="-Xmx16g"
+    	;;
+    *)
+        >&2 echo ERROR: UNSUPPORTED GDAAS_SIZE $GDAAS_SIZE
+        exit 2
+    ;;
+esac
+
+
+
+
 if [  $READONLY -eq 1 ]; then 
-	cp /readonly-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
+	cp ${JETTY_BASE}/readonly-web.xml ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
 else
-	cp /writable-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
+	cp ${JETTY_BASE}/writable-web.xml ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
 fi
 
-STARTUP_CMD="sudo -u jetty java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
+STARTUP_CMD="java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
 
-echo -n "SDaaS engine starting..."
+echo -n "SDaaS knowledge graph engine starting..."
 
 if [ $FOREGROUND -eq 1 ]; then
 	echo "Press ctrl-c to stop."
-	cd /var/lib/jetty &&  $STARTUP_CMD
+	cd ${JETTY_BASE} &&  $STARTUP_CMD
 else
-	echo "as daemon"
-	cd /var/lib/jetty &&  $STARTUP_CMD &
+	echo "as daemon (10 sec pre-warmup)"
+	cd ${JETTY_BASE} &&  $STARTUP_CMD &
 	sleep 10
 fi
