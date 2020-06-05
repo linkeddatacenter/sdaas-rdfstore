@@ -21,13 +21,9 @@ function USAGE {
 
 
 ### Parse command line options
-__parsed=$(getopt -options="" --longoptions=foreground,readonly --name "$0" -- "$@") || USAGE
-eval set -- "$__parsed"
-unset __parsed 
-
 FOREGROUND=0
 READONLY=0
-while true; do
+while [ "$#" -gt 0 ]; do
 	case "$1" in
 	    --foreground)
 	    	FOREGROUND=1
@@ -38,14 +34,16 @@ while true; do
             shift
 	    	;;
         --)
-            shift
             break
         ;;
 	    *)
 	        USAGE
 	    ;;
 	esac
+	shift
 done
+
+
 
 if [  $READONLY -eq 1 ]; then 
 	cp ${JETTY_HOME}/readonly-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
@@ -53,7 +51,7 @@ else
 	cp ${JETTY_HOME}/writable-web.xml ${JETTY_WEBAPPS}/sdaas/WEB-INF/web.xml
 fi
 
-STARTUP_CMD="jetty java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
+STARTUP_CMD="java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
 
 echo -n "SDaaS engine starting..."
 
