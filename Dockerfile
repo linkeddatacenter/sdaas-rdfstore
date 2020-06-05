@@ -19,12 +19,6 @@ FROM jetty:9.4-jdk13-slim
 
 LABEL authors="enrico@linkeddata.center"
 
-ENV JAVA_OPTS="-Xmx1g" \
-    JETTY_WEBAPPS=/var/lib/jetty/webapps \
-    BLAZEGRAPH_UID=888 \
-    BLAZEGRAPH_GID=888
-
-
 COPY helpers/sdaas-st* /
 COPY helpers/*.xml ${JETTY_BASE}/
 COPY --from=build-stage /sdaas ${JETTY_BASE}/webapps/sdaas
@@ -35,5 +29,7 @@ RUN chown jetty.jetty /sdaas-st* ; \
 	chmod +rx /sdaas-st* ; \
 	chown jetty.jetty ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
 USER jetty
+
+ENV GDAAS_SIZE="micro" 
 
 CMD /sdaas-start --foreground
