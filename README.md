@@ -5,17 +5,6 @@ Run a dockerized blazegraph instance certified for sdaas
 
 Derived from the [lyrasis/blazegraph project](https://github.com/lyrasis/docker-blazegraph) 
 
-**Changes respect to standard distribution:**
-
-- uses /sdaas-start  with followingstartup options:
-		
-		--foreground
-			execute the platform in foreground
-		
-		--readonly
-		   disallow mutations in graph database
-
-small changes to web worbench
 
 ## Quickstart
 
@@ -35,6 +24,16 @@ Interactive section:
 	/sdaas-start
 	/sdaas-stop
 	exit
+
+sdaas-start options:
+		
+		--foreground
+			execute the platform in foreground
+		
+		--readonly
+		   disallow mutations in graph database
+
+
 
 ## Option
 
@@ -57,7 +56,6 @@ To push a new docker image to docker hub:
 ```
 docker build -t linkeddatacenter/sdaas-rdfstore .
 docker login
-# input the docker hub credentials...
 docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:x.x.x
 docker push linkeddatacenter/sdaas-rdfstore
 ```
