@@ -45,19 +45,19 @@ done
 
 case "${GDAAS_SIZE:-micro}" in
     micro)
-    	JAVA_OPTS="-Xmx1g"
+    	JAVA_OPTS="-server -Xmx1g -Djava.awt.headless=true"
     	;;
     small)
-    	JAVA_OPTS="-Xmx2g"
+    	JAVA_OPTS="-server -Xmx2g -Djava.awt.headless=true"
     	;;
     medium)
-    	JAVA_OPTS="-Xmx4g"
+    	JAVA_OPTS="-server -Xmx4g -Djava.awt.headless=true"
     	;;
 	large)
-    	JAVA_OPTS="-Xmx8g"
+    	JAVA_OPTS="-server -Xmx8g -Djava.awt.headless=true"
     	;;
 	xlarge)
-    	JAVA_OPTS="-Xmx16g"
+    	JAVA_OPTS="-server -Xmx16g -Djava.awt.headless=true"
     	;;
     *)
         >&2 echo ERROR: UNSUPPORTED GDAAS_SIZE $GDAAS_SIZE
