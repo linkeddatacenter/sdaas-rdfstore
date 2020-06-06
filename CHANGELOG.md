@@ -41,6 +41,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 First release, aligned with Blazegraph 2.1.5
 
 
-[Unreleased]: https://bitbucket.org/linkeddatacenter/sdaas/compare/master%0D2.0.0
-[2.0.0]: https://bitbucket.org/linkeddatacenter/sdaas/compare/2.0.0%0D1.1.0
-[1.1.0]: https://bitbucket.org/linkeddatacenter/sdaas/compare/1.1.0%0D1.0.0
+[Unreleased]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.0.0...HEAD
+[2.0.0]:  https://github.com/linkeddatacenter/sdaas-ce/compare/2.0.0...1.1.0
+[1.1.0]:  https://github.com/linkeddatacenter/sdaas-ce/compare/1.1.0...1.0.0
