@@ -20,7 +20,7 @@ Launch as a daemon:
 
 Interactive section:
 	
-	docker run --rm blazegraph -ti -p 8080:8080 --entripoint bash sdaas-rdfstore
+	docker run --rm -ti -p 8080:8080 --entrypoint bash sdaas-rdfstore
 	/sdaas-start
 	/sdaas-stop
 	exit

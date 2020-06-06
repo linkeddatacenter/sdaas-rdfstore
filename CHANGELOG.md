@@ -6,6 +6,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
+### Changed
+
+- doc typos
+- JAVA_OPTS server optimization
+
 ## [2.0.0] 
 
 ### Added
