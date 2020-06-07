@@ -5,35 +5,45 @@
 
 function USAGE {
 	>&2 cat <<-EOT
-		Smart Data as a Service (SDaaS) platform community edition
+		Smart Data as a Service (SDaaS) knowledge graph engine
 		Copyright (C) 2018-2020 http://linkeddata.center/
 			
 		startup options:
 		
-		--foreground
-			execute the platform in foreground
+		-d, --background
+			execute the platform as a daemon
 		
 		--readonly
 		   disallow mutations in graph database
+		   
+		--size micro|small|medium|large|xlarge|xxlarge|custom
 	EOT
 	exit 1
 }
 
 
 ### Parse command line options
-FOREGROUND=0
+__parsed=$(getopt -options="" --longoptions=foreground,readonly --name "$0" -- "$@") || USAGE
+eval set -- "$__parsed"
+unset __parsed 
+
+FOREGROUND=1
 READONLY=0
-while [ "$#" -gt 0 ]; do
+while true; do
 	case "$1" in
-	    --foreground)
-	    	FOREGROUND=1
+	    --background)
+	    	FOREGROUND=0
             shift
 	    	;;
 		--readonly)
 	    	READONLY=1
             shift
 	    	;;
+	    --size)
+			SIZE="${2-micro}"
+	    	shift 2
         --)
+            shift
             break
         ;;
 	    *)
@@ -43,26 +53,26 @@ while [ "$#" -gt 0 ]; do
 	shift
 done
 
-case "${GDAAS_SIZE:-micro}" in
+case "${SIZE}" in
     micro)
-    	JAVA_OPTS="-server -Xmx1g -Djava.awt.headless=true"
+    	JAVA_OPTS="-server -Xmx256m -Djava.awt.headless=true-XX:MaxDirectMemorySize=100m -XX:+UseG1GC"
     	;;
     small)
-    	JAVA_OPTS="-server -Xmx2g -Djava.awt.headless=true"
+    	JAVA_OPTS="-server -Xmx1500m -Djava.awt.headless=true -XX:MaxDirectMemorySize=1000m -XX:+UseG1GC"
     	;;
     medium)
-    	JAVA_OPTS="-server -Xmx4g -Djava.awt.headless=true"
+    	JAVA_OPTS="-server -Xmx3500m -Djava.awt.headless=true -XX:MaxDirectMemorySize=1500m -XX:+UseG1GC"
     	;;
 	large)
-    	JAVA_OPTS="-server -Xmx8g -Djava.awt.headless=true"
+    	JAVA_OPTS="-server -Xmx7g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
     	;;
 	xlarge)
-    	JAVA_OPTS="-server -Xmx16g -Djava.awt.headless=true"
+    	JAVA_OPTS="-server -Xmx15g -Djava.awt.headless=true XX:MaxDirectMemorySize=5000m -XX:+UseG1GC"
     	;;
-    *)
-        >&2 echo ERROR: UNSUPPORTED GDAAS_SIZE $GDAAS_SIZE
-        exit 2
-    ;;
+	xxlarge)
+    	JAVA_OPTS="-server -Xmx30g -Djava.awt.headless=true XX:MaxDirectMemorySize=6000m -XX:+UseG1GC"
+    	;;
+    # else do not changes  JAVA_OPTS
 esac
 
 
@@ -76,13 +86,12 @@ fi
 
 STARTUP_CMD="java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
 
-echo -n "SDaaS knowledge graph engine starting..."
+echo -n "SDaaS knowledge graph engine starting using $SIZE memory footprint."
 
 if [ $FOREGROUND -eq 1 ]; then
-	echo "Press ctrl-c to stop."
+	echo ". Press ctrl-c to stop."
 	cd ${JETTY_BASE} &&  $STARTUP_CMD
 else
-	echo "as daemon (10 sec pre-warmup)"
+	echo " as daemon."
 	cd ${JETTY_BASE} &&  $STARTUP_CMD &
-	sleep 10
 fi

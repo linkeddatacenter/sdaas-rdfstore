@@ -14,8 +14,8 @@ Build local image:
 
 Launch as a daemon:
 
-	docker run --name blazegraph -d -p 8080:8080 sdaas-rdfstore
-	docker logs -f blazegraph
+	docker run --name gdaas -d -p 8080:8080 sdaas-rdfstore
+	docker logs -f gdaas
 
 
 Interactive section:
@@ -26,28 +26,34 @@ Interactive section:
 	exit
 
 sdaas-start options:
-		
-		--foreground
-			execute the platform in foreground
+
+		-d, --background
+			execute the platform as a daemon
 		
 		--readonly
 		   disallow mutations in graph database
+		   
+		--size micro|small|medium|large|xlarge|xxlarge|custom
 
 
+memory footprints and performances related to size
 
-## Option
-
-Size optimization are available throug env variable GDAAS_SIZE:
-
-| GDAAS_SIZE value | required RAM | Edges (triples) |
+| size value       | required RAM | edges (triples) |
 |------------------|--------------|-----------------|
-| micro (default)  | 1.5GB        | <1M             |
-| small            | 2.5GB        | <5M             |
-| medium           | 4.5GB        | <10M            |
-| large            | 8.5GB        | <200M           |
-| xlarge           | 16.5GB       | <500M           |
+| micro (default)  | 512MB        | <200K           |
+| small            | 2GB          | <1M             |
+| medium           | 4GB          | <8M             |
+| large            | 8GB          | <100M           |
+| xlarge           | 16GB         | <500M           |
+| xxlarge          | 32GB         | <1B             |
+| custom           | depends      |                 |
 
-More info: https://github.com/blazegraph/database/wiki/Hardware_Configuration
+
+The *micro* size is suitable for test and development environment.
+
+The *custom* size let to you setting up proper configurations, see https://github.com/blazegraph/database/wiki/Hardware_Configuration
+
+To persist data and improve performances, you should mount as a fast volume the directory /var/lib/sdaas
 
 ## Push to docker hub
 

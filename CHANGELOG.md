@@ -6,10 +6,22 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
+## [2.1.0]
 ### Changed
 
 - doc typos
 - JAVA_OPTS server optimization
+- restored getop dependecy
+- changed service startup options
+- revised the available size options to match the typical RAM configurations
+
+### Added
+
+- addes xxlarge size
+
+### Removed 
+
+- GDAAS_SIZE environment variable
 
 ## [2.0.0] 
 
@@ -19,7 +31,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 
-- now based on debian 10 distribution
+- based on debian 10 distribution
 - updated to jetty 9.4 with jdk13 slim
 - updated to Blazegraph 2.1.6RC
 - updated readonly and writable helpers on new web.xml format
@@ -41,6 +53,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 First release, aligned with Blazegraph 2.1.5
 
 
-[Unreleased]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.0.0...HEAD
-[2.0.0]:  https://github.com/linkeddatacenter/sdaas-ce/compare/2.0.0...1.1.0
-[1.1.0]:  https://github.com/linkeddatacenter/sdaas-ce/compare/1.1.0...1.0.0
+[Unreleased]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.1.0...HEAD
+[2.1.0]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.1.0...2.0.0
+[2.0.0]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.0.0...1.1.0
+[1.1.0]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/1.1.0...1.0.0
