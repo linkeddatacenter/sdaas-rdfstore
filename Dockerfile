@@ -12,7 +12,6 @@ RUN apk add --no-cache openssl && \
 
 # unpack and rename the blazegraph webapp
 RUN unzip /blazegraph.war -d /sdaas
-COPY webapps/sdaas/html /sdaas/html
 
 ### production stage ###
 FROM jetty:9.4-jdk13-slim
@@ -22,14 +21,12 @@ LABEL authors="enrico@linkeddata.center"
 COPY helpers/sdaas-st* /
 COPY helpers/*.xml ${JETTY_BASE}/
 COPY --from=build-stage /sdaas ${JETTY_BASE}/webapps/sdaas
-COPY webapps/shared ${JETTY_BASE}/webapps/shared
 
-USER root
+USER root	
 RUN chown jetty.jetty /sdaas-st* ; \
 	chmod +rx /sdaas-st* ; \
-	chown jetty.jetty ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
+	chown jetty.jetty ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml ;
 USER jetty
 
-ENV GDAAS_SIZE="micro" 
-
-CMD /sdaas-start --foreground
+ENTRYPOINT ["/sdaas-start"]
+CMD ["--foreground", "--micro"]
