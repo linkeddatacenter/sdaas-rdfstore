@@ -3,15 +3,12 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
-
 ## [unreleased]
 
 ## [2.1.0]
+
 ### Changed
 
-- doc typos
-- JAVA_OPTS server optimization
-- restored getop dependecy
 - changed service startup options
 - revised the available size options to match the typical RAM configurations
 
@@ -19,15 +16,22 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - addes xxlarge size
 
+
+### Fixed
+
+- doc typos
+
 ### Removed 
 
 - GDAAS_SIZE environment variable
+- removed webapp shared
+
 
 ## [2.0.0] 
 
 ### Added
 
-- GDAAS_SIZE optimization
+- size  optimization based on GDAAS_SIZE env var
 
 ### Changed
 
@@ -41,12 +45,14 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - removed dependecies to getop in sdaas-start
 
+
 ## [1.1.0]
 
 ### Addedd
 
 - customization of workbench UI
 - static file serving in shared area
+
 
 ## 1.0.0
 

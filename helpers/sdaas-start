@@ -22,16 +22,15 @@ function USAGE {
 }
 
 
-### Parse command line options
-__parsed=$(getopt -options="" --longoptions=foreground,readonly --name "$0" -- "$@") || USAGE
-eval set -- "$__parsed"
-unset __parsed 
 
+
+### Parse command line options
 FOREGROUND=1
 READONLY=0
-while true; do
+SIZE=micro
+while [ "$#" -gt 0 ]; do
 	case "$1" in
-	    --background)
+	    -d|--background)
 	    	FOREGROUND=0
             shift
 	    	;;
@@ -42,13 +41,14 @@ while true; do
 	    --size)
 			SIZE="${2-micro}"
 	    	shift 2
+	    	;;
         --)
             shift
             break
-        ;;
+        	;;
 	    *)
 	        USAGE
-	    ;;
+	    	;;
 	esac
 	shift
 done
