@@ -5,6 +5,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
+## [2.1.1]
+
+### Fixed
+
+- startup options bug
+
 ## [2.1.0]
 
 ### Changed
@@ -59,7 +65,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 First release, aligned with Blazegraph 2.1.5
 
 
-[Unreleased]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.1.0...HEAD
+[Unreleased]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.1.1...HEAD
+[2.1.1]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.1.1...2.1.0
 [2.1.0]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.1.0...2.0.0
 [2.0.0]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/2.0.0...1.1.0
 [1.1.0]:  https://github.com/linkeddatacenter/sdaas-rdfstore/compare/1.1.0...1.0.0

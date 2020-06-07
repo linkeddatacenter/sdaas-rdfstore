@@ -29,4 +29,4 @@ RUN chown jetty.jetty /sdaas-st* ; \
 USER jetty
 
 ENTRYPOINT ["/sdaas-start"]
-CMD ["--foreground", "--micro"]
+CMD ["--size", "micro"]	
