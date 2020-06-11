@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Copyright (C) 2019 LinkedData.Center - All Rights Reserved
+# Copyright (C) 2019-2020 LinkedData.Center - All Rights Reserved
 # Permission to copy and modify is granted under the MIT license
 
 
@@ -20,8 +20,6 @@ function USAGE {
 	EOT
 	exit 1
 }
-
-
 
 
 ### Parse command line options
@@ -52,45 +50,44 @@ while [ "$#" -gt 0 ]; do
 	esac
 done
 
-case "${SIZE}" in
+case "${SIZE:=micro}" in
     micro)
-    	JAVA_OPTS="-server -Xmx256m -Djava.awt.headless=true-XX:MaxDirectMemorySize=100m -XX:+UseG1GC"
+    	SIZE_OPTS="-server -Xmx256m -Djava.awt.headless=true"
     	;;
     small)
-    	JAVA_OPTS="-server -Xmx1500m -Djava.awt.headless=true -XX:MaxDirectMemorySize=1000m -XX:+UseG1GC"
+    	SIZE_OPTS="-server -Xmx1500m -Djava.awt.headless=true"
     	;;
     medium)
-    	JAVA_OPTS="-server -Xmx3500m -Djava.awt.headless=true -XX:MaxDirectMemorySize=1500m -XX:+UseG1GC"
+    	SIZE_OPTS="-server -Xmx3500m -Djava.awt.headless=true -XX:+UseG1GC"
     	;;
 	large)
-    	JAVA_OPTS="-server -Xmx7g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
+    	SIZE_OPTS="-server -Xmx7g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m  -XX:+UseG1GC"
     	;;
 	xlarge)
-    	JAVA_OPTS="-server -Xmx15g -Djava.awt.headless=true XX:MaxDirectMemorySize=5000m -XX:+UseG1GC"
+    	SIZE_OPTS="-server -Xmx15g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
     	;;
 	xxlarge)
-    	JAVA_OPTS="-server -Xmx30g -Djava.awt.headless=true XX:MaxDirectMemorySize=6000m -XX:+UseG1GC"
+    	SIZE_OPTS="-server -Xmx30g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
     	;;
-    # else do not changes  JAVA_OPTS
 esac
 
+JAVA_OPTS="${JAVA_OPTS:-"$SIZE_OPTS"}"
 
-
+startupMsg="SDaaS knowledge graph engine starting using $SIZE memory footprint"
 
 if [  $READONLY -eq 1 ]; then 
-	cp ${JETTY_BASE}/readonly-web.xml ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
+	cat ${JETTY_BASE}/readonly-template.xml | sed  "s|__READONLY__|true|" > ${JETTY_BASE}/readonly.xml 
+	startupMsg="READONLY - $startupMsg"
 else
-	cp ${JETTY_BASE}/writable-web.xml ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
+	cat ${JETTY_BASE}/readonly-template.xml | sed  "s|__READONLY__|false|" > ${JETTY_BASE}/readonly.xml
 fi
 
+
 STARTUP_CMD="java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
-
-echo -n "SDaaS knowledge graph engine starting using $SIZE memory footprint."
-
 if [ $FOREGROUND -eq 1 ]; then
-	echo ". Press ctrl-c to stop."
+	echo "${startupMsg}. Press ctrl-c to stop."
 	cd ${JETTY_BASE} &&  $STARTUP_CMD
 else
-	echo " as daemon."
+	echo "$startupMsg as daemon."
 	cd ${JETTY_BASE} &&  $STARTUP_CMD &
 fi

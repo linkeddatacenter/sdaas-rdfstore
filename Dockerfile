@@ -18,14 +18,18 @@ FROM jetty:9.4-jdk13-slim
 
 LABEL authors="enrico@linkeddata.center"
 
+ENV SDAAS_WAR /sdaas-store
+
+COPY --from=build-stage /sdaas ${SDAAS_WAR}
 COPY helpers/sdaas-st* /
-COPY helpers/*.xml ${JETTY_BASE}/
-COPY --from=build-stage /sdaas ${JETTY_BASE}/webapps/sdaas
+COPY helpers/sdaas-template.xml ${JETTY_BASE}/webapps/sdaas.xml
+COPY helpers/readonly-template.xml ${JETTY_BASE}/readonly-template.xml
+
+RUN sed -i "s|__SDAAS_WAR__|${SDAAS_WAR}|" ${JETTY_BASE}/webapps/sdaas.xml
 
 USER root	
-RUN chown jetty.jetty /sdaas-st* ; \
-	chmod +rx /sdaas-st* ; \
-	chown jetty.jetty ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml ;
+RUN chown jetty.jetty /sdaas-st* ${JETTY_BASE}/webapps/sdaas.xml; \
+	chmod +rx /sdaas-st* 
 USER jetty
 
 ENTRYPOINT ["/sdaas-start"]
