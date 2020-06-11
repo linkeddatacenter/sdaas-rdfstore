@@ -3,6 +3,6 @@
 
 <Configure class="org.eclipse.jetty.webapp.WebAppContext">
   <Set name="contextPath">/sdaas</Set>
-  <Set name="war">__SDAAS_WAR__</Set>
-  <Set name="overrideDescriptor"><SystemProperty name="jetty.base" default="."/>/readonly.xml</Set>
+  <Set name="war">__SDAAS_STORE_WAR__</Set>
+  <Set name="overrideDescriptor"><SystemProperty name="jetty.base" default="."/>/readonly-override.xml</Set>
 </Configure>
