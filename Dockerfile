@@ -2,31 +2,53 @@
 # Permission to copy and modify is granted under the MIT license
 FROM bash as build-stage
 
-ENV BLAZEGRAPH_VERSION_URL https://github.com/blazegraph/database/releases/download/BLAZEGRAPH_2_1_6_RC/blazegraph.war
-
 RUN apk --no-cache add unzip
 
-RUN apk add --no-cache openssl && \
-    apk add --no-cache su-exec && \
-    wget -O /blazegraph.war $BLAZEGRAPH_VERSION_URL
-
-# unpack and rename the blazegraph webapp
-RUN unzip /blazegraph.war -d /sdaas
+RUN wget -O /blazegraph.war https://github.com/blazegraph/database/releases/download/BLAZEGRAPH_2_1_6_RC/blazegraph.war ;\
+	unzip /blazegraph.war -d /sdaas
 
 ### production stage ###
 FROM jetty:9.4-jdk13-slim
 
 LABEL authors="enrico@linkeddata.center"
 
+USER root
+
+ENV SDAAS_STORE_NAME=rdfStore
+ENV SDAAS_STORE_LOG=/var/log/${SDAAS_STORE_NAME}
+ENV SDAAS_STORE_WAR=/opt/${SDAAS_STORE_NAME}
+ENV SDAAS_STORE_DATA=/var/lib/${SDAAS_STORE_NAME}
+
+####### Create dirs
+RUN mkdir -p "${SDAAS_STORE_WAR}" "${SDAAS_STORE_DATA}" "${SDAAS_STORE_LOG}" ; \
+	chown -R jetty.jetty "${SDAAS_STORE_WAR}" "${SDAAS_STORE_DATA}" "${SDAAS_STORE_LOG}" 
+
+####### Install war
+COPY --from=build-stage /sdaas ${SDAAS_STORE_WAR}
+COPY helpers/sdaas-template.xml ${JETTY_BASE}/webapps/sdaas.xml
+RUN sed -i \
+		-e "s|__SDAAS_STORE_WAR__|${SDAAS_STORE_WAR}|g" \
+	"${JETTY_BASE}/webapps/sdaas.xml" ; \
+	chown jetty.jetty "${JETTY_BASE}/webapps/sdaas.xml"
+
+####### Configure the override template for war.xml 
+COPY helpers/readonly-template.xml "${JETTY_BASE}/readonly-template.xml"
+RUN chown jetty.jetty "${JETTY_BASE}/readonly-template.xml" 
+
+####### Configure RWStore.properties file
+RUN sed "s|^com\.bigdata.journal\.AbstractJournal\.file=.*|com.bigdata.journal.AbstractJournal.file=${SDAAS_STORE_DATA}/${SDAAS_STORE_NAME}.jnl|" \
+		"${SDAAS_STORE_WAR}/WEB-INF/RWStore.properties" \
+		> "${JETTY_BASE}/RWStore.properties" ; \
+	chown jetty.jetty "${JETTY_BASE}/RWStore.properties" 
+
+
+####### Configure startups scrips
 COPY helpers/sdaas-st* /
-COPY helpers/*.xml ${JETTY_BASE}/
-COPY --from=build-stage /sdaas ${JETTY_BASE}/webapps/sdaas
-
-USER root	
 RUN chown jetty.jetty /sdaas-st* ; \
-	chmod +rx /sdaas-st* ; \
-	chown jetty.jetty ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml ;
-USER jetty
+	chmod +rx /sdaas-st* 
 
+
+	
+USER jetty
 ENTRYPOINT ["/sdaas-start"]
 CMD ["--size", "micro"]	

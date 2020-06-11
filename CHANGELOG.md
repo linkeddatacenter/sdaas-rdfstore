@@ -6,6 +6,21 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [unreleased]
 
 
+## [2.1.3]
+
+### Changed
+
+- using Jetty Override  for readonly setup
+- cleanedup dockerfile
+
+### Removed
+
+- readonly-web.xml and writable-web.xml
+
+### Added
+
+- readonly.xml
+
 ## [2.1.2]
 
 ### Fixed

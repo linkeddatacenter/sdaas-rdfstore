@@ -1,6 +1,19 @@
 #!/usr/bin/env bash
-# Copyright (C) 2019 LinkedData.Center - All Rights Reserved
+# Copyright (C) 2019-2020 LinkedData.Center - All Rights Reserved
 # Permission to copy and modify is granted under the MIT license
+
+if [ -z "${JETTY_BASE}" ]; then
+	>&2 echo "No JETTY_BASE found, is JETTY installed?"
+	exit 2
+fi
+
+#### config defaults #########
+_FOREGROUND=1
+_READONLY=0
+_SIZE=micro
+_LOGDIR="${SDAAS_STORE_LOG:-"$JETTY_BASE"}"
+_STORENAME="${SDAAS_STORE_NAME:-storeDb}"
+
 
 
 function USAGE {
@@ -22,24 +35,20 @@ function USAGE {
 }
 
 
-
-
 ### Parse command line options
-FOREGROUND=1
-READONLY=0
-SIZE=micro
+
 while [ "$#" -gt 0 ]; do
 	case "$1" in
 	    -d|--background)
-	    	FOREGROUND=0
+	    	_FOREGROUND=0
             shift
 	    	;;
 		--readonly)
-	    	READONLY=1
+	    	_READONLY=1
             shift
 	    	;;
 	    --size)
-			SIZE="${2-micro}"
+			_SIZE="${2-micro}"
 	    	shift 2
 	    	;;
         --)
@@ -52,45 +61,49 @@ while [ "$#" -gt 0 ]; do
 	esac
 done
 
-case "${SIZE}" in
+## $_SIZE is used to set JAVA_OPTS configurations use "--size custom" to let JAVA_OPTS untouched
+case "$_SIZE" in
     micro)
-    	JAVA_OPTS="-server -Xmx256m -Djava.awt.headless=true-XX:MaxDirectMemorySize=100m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -Xmx256m -Djava.awt.headless=true"
     	;;
     small)
-    	JAVA_OPTS="-server -Xmx1500m -Djava.awt.headless=true -XX:MaxDirectMemorySize=1000m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -Xmx1500m -Djava.awt.headless=true"
     	;;
     medium)
-    	JAVA_OPTS="-server -Xmx3500m -Djava.awt.headless=true -XX:MaxDirectMemorySize=1500m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -Xmx3500m -Djava.awt.headless=true -XX:+UseG1GC"
     	;;
 	large)
-    	JAVA_OPTS="-server -Xmx7g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -Xmx7g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m  -XX:+UseG1GC"
     	;;
 	xlarge)
-    	JAVA_OPTS="-server -Xmx15g -Djava.awt.headless=true XX:MaxDirectMemorySize=5000m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -Xmx15g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
     	;;
 	xxlarge)
-    	JAVA_OPTS="-server -Xmx30g -Djava.awt.headless=true XX:MaxDirectMemorySize=6000m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -Xmx30g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
     	;;
-    # else do not changes  JAVA_OPTS
+    custom)
+    	;;
+    *)
+    	USAGE
+    	;;
 esac
 
 
+startupMsg="SDaaS knowledge graph engine starting using $_SIZE memory footprint"
 
-
-if [  $READONLY -eq 1 ]; then 
-	cp ${JETTY_BASE}/readonly-web.xml ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
+if [  $_READONLY -eq 1 ]; then 
+	sed 's/__READONLY__/true/' "${JETTY_BASE}/readonly-template.xml"  > "${JETTY_BASE}/readonly-override.xml"
+	startupMsg="READONLY - $startupMsg"
 else
-	cp ${JETTY_BASE}/writable-web.xml ${JETTY_BASE}/webapps/sdaas/WEB-INF/web.xml
+	sed 's/__READONLY__/false/' "${JETTY_BASE}/readonly-template.xml" > "${JETTY_BASE}/readonly-override.xml"
 fi
 
-STARTUP_CMD="java -jar /usr/local/jetty/start.jar STOP.PORT=28282 STOP.KEY=secret"
 
-echo -n "SDaaS knowledge graph engine starting using $SIZE memory footprint."
-
-if [ $FOREGROUND -eq 1 ]; then
-	echo ". Press ctrl-c to stop."
-	cd ${JETTY_BASE} &&  $STARTUP_CMD
+_STARTUP_CMD="java -jar "${JETTY_HOME}/start.jar" STOP.PORT=28282 STOP.KEY=secret"
+if [ $_FOREGROUND -eq 1 ]; then
+	echo "${startupMsg}. Press ctrl-c to stop."
+	cd "${JETTY_BASE}" &&  $_STARTUP_CMD
 else
-	echo " as daemon."
-	cd ${JETTY_BASE} &&  $STARTUP_CMD &
+	echo "$startupMsg as daemon."
+	cd "${JETTY_BASE}" &&  $_STARTUP_CMD >> "${_LOGDIR}/${_STORENAME}.log"  2>&1 &
 fi
