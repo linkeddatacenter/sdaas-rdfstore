@@ -11,20 +11,21 @@ The sdaas-rdfstore requires [docker](https://www.docker.com/)
 	docker build -t sdaas-rdfstore .
 
 ## Smoke tests
+
+*Note on windows user: define `export MSYS_NO_PATHCONV=1` to avoid unwanted path conversion [see this note](https://stackoverflow.com/questions/7250130/how-to-stop-mingw-and-msys-from-mangling-path-names-given-at-the-command-line#34386471)*
 	
-	docker run --rm -ti --entrypoint bash sdaas-rdfstore
-	/sdaas-start -d --size small --readonly || echo KO
-	sleep 10 # some time to warmup
-	test -f /var/log/rdfStore/rdfStore.log || echo KO
-	test -f /var/lib/rdfStore/rdfStore.jnl || echo KO
-	/sdaas-stop || echo KO
-	exit
-	
-	docker run --name gdaas -d -p 8080:8080 sdaas-rdfstore
-	docker logs -f gdaas
-	# point browser to http://localhost:8080/sdaas to see workbench interface
-	#..press ctrl-c to exit logs
-	docker rm -f gdaas
+	docker run -d --name rdfstore -p 8080:8080 sdaas-rdfstore
+	sleep 10;docker exec rdfstore test -f /var/lib/rdfStore/rdfStore.jnl || echo KO
+	curl -X POST \
+		--data-binary "LOAD <http://wifo5-03.informatik.uni-mannheim.de/benchmarks-200801/homepages-fixed.nt.gz>" \
+		--header "Content-Type: application/sparql-update" \
+		http://localhost:8080/sdaas/sparql  || echo KO
+
+Test workbench:
+
+- point browser to http://localhost:8080/sdaas to see workbench interface
+- in the UPDATE tab, tray executing: `DROP ALL; LOAD <http://wifo5-03.informatik.uni-mannheim.de/benchmarks-200801/homepages-fixed.nt.gz>`
+- free docker resource typing `docker rm -f rdfstore`
 
 ## sdaas-start options
 
@@ -48,12 +49,12 @@ memory footprints and performances related to size:
 
 | size value       | required RAM | edges (triples) |
 |------------------|--------------|-----------------|
-| micro (default)  | 512MB        | <200K           |
-| small            | 2GB          | <1M             |
-| medium           | 4GB          | <8M             |
-| large            | 8GB          | <100M           |
-| xlarge           | 16GB         | <500M           |
-| xxlarge          | 32GB         | <1B             |
+| micro (default)  | 512M         | <200K           |
+| small            | 2GB          | <5M             |
+| medium           | 4GB          | <10M            |
+| large            | 8GB          | <50M            |
+| xlarge           | 16GB         | <100M           |
+| xxlarge          | 32GB         | <500M           |
 | custom           | depends      |                 |
 
 
@@ -61,7 +62,7 @@ The *micro* size is suitable for test and development environment.
 
 The *custom* size let to you setting up proper configurations, see https://github.com/blazegraph/database/wiki/Hardware_Configuration
 
-To persist data and improve performances, you should mount as a fast volume the directory /var/lib/sdaas
+To persist data and improve performances, you should mount as a fast volume the directory /var/lib/rdfStore
 
 
 
@@ -69,9 +70,8 @@ To persist data and improve performances, you should mount as a fast volume the 
 
 To push a new docker image to docker hub:
 
-```
-docker build -t linkeddatacenter/sdaas-rdfstore .
-docker login
-docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:x.x.x
-docker push linkeddatacenter/sdaas-rdfstore
-```
+	docker login
+	docker build -t linkeddatacenter/sdaas-rdfstore .
+	docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:x.x.x
+	docker push linkeddatacenter/sdaas-rdfstore
+

@@ -12,7 +12,8 @@ _FOREGROUND=1
 _READONLY=0
 _SIZE=micro
 _LOGDIR="${SDAAS_STORE_LOG:-"$JETTY_BASE"}"
-_STORENAME="${SDAAS_STORE_NAME:-storeDb}"
+_STORENAME="${SDAAS_STORE_NAME:-rdfStore}"
+_ETC="${SDAAS_STORE_ETC:-"/etc/$_STORENAME"}"
 
 
 
@@ -67,19 +68,19 @@ case "$_SIZE" in
     	JAVA_OPTS="-server -Xmx256m -Djava.awt.headless=true"
     	;;
     small)
-    	JAVA_OPTS="-server -Xmx1500m -Djava.awt.headless=true"
+    	JAVA_OPTS="-server -Xmx1g -Djava.awt.headless=true"
     	;;
     medium)
-    	JAVA_OPTS="-server -Xmx3500m -Djava.awt.headless=true -XX:+UseG1GC"
+    	JAVA_OPTS="-server -XX:+UseG1GC -Xmx2g -Djava.awt.headless=true "
     	;;
 	large)
-    	JAVA_OPTS="-server -Xmx7g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m  -XX:+UseG1GC"
+    	JAVA_OPTS="-server -XX:+UseG1GC -Xmx4g -Djava.awt.headless=true"
     	;;
 	xlarge)
-    	JAVA_OPTS="-server -Xmx15g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -XX:+UseG1GC -Xmx8g -Djava.awt.headless=true"
     	;;
 	xxlarge)
-    	JAVA_OPTS="-server -Xmx30g -Djava.awt.headless=true -XX:MaxDirectMemorySize=3000m -XX:+UseG1GC"
+    	JAVA_OPTS="-server -XX:+UseG1GC -Xmx16g -Djava.awt.headless=true"
     	;;
     custom)
     	;;
@@ -92,14 +93,14 @@ esac
 startupMsg="SDaaS knowledge graph engine starting using $_SIZE memory footprint"
 
 if [  $_READONLY -eq 1 ]; then 
-	sed 's/__READONLY__/true/' "${JETTY_BASE}/readonly-template.xml"  > "${JETTY_BASE}/readonly-override.xml"
+	sed 's/__READONLY__/true/' "${SDAAS_STORE_ETC}/readonly-template.xml"  > "${JETTY_BASE}/readonly-override.xml"
 	startupMsg="READONLY - $startupMsg"
 else
-	sed 's/__READONLY__/false/' "${JETTY_BASE}/readonly-template.xml" > "${JETTY_BASE}/readonly-override.xml"
+	sed 's/__READONLY__/false/' "${SDAAS_STORE_ETC}/readonly-template.xml" > "${JETTY_BASE}/readonly-override.xml"
 fi
 
 
-_STARTUP_CMD="java -jar "${JETTY_HOME}/start.jar" STOP.PORT=28282 STOP.KEY=secret"
+_STARTUP_CMD="java ${JAVA_OPTS:-''} -jar "${JETTY_HOME}/start.jar" STOP.PORT=28282 STOP.KEY=secret"
 if [ $_FOREGROUND -eq 1 ]; then
 	echo "${startupMsg}. Press ctrl-c to stop."
 	cd "${JETTY_BASE}" &&  $_STARTUP_CMD

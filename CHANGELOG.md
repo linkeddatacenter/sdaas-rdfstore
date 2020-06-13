@@ -5,6 +5,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
+## [2.1.4]
+
+### Fixed
+
+- JAVA_OPTS management
 
 ## [2.1.3]
 

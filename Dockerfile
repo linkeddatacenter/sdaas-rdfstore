@@ -18,22 +18,23 @@ ENV SDAAS_STORE_NAME=rdfStore
 ENV SDAAS_STORE_LOG=/var/log/${SDAAS_STORE_NAME}
 ENV SDAAS_STORE_WAR=/opt/${SDAAS_STORE_NAME}
 ENV SDAAS_STORE_DATA=/var/lib/${SDAAS_STORE_NAME}
+ENV SDAAS_STORE_ETC=/etc/${SDAAS_STORE_NAME}
 
 ####### Create dirs
-RUN mkdir -p "${SDAAS_STORE_WAR}" "${SDAAS_STORE_DATA}" "${SDAAS_STORE_LOG}" ; \
-	chown -R jetty.jetty "${SDAAS_STORE_WAR}" "${SDAAS_STORE_DATA}" "${SDAAS_STORE_LOG}" 
+RUN mkdir -p "${SDAAS_STORE_WAR}" "${SDAAS_STORE_DATA}" "${SDAAS_STORE_LOG}" "${SDAAS_STORE_ETC}" ; \
+	chown -R jetty.jetty "${SDAAS_STORE_DATA}" "${SDAAS_STORE_LOG}" 
 
-####### Install war
-COPY --from=build-stage /sdaas ${SDAAS_STORE_WAR}
-COPY helpers/sdaas-template.xml ${JETTY_BASE}/webapps/sdaas.xml
-RUN sed -i \
-		-e "s|__SDAAS_STORE_WAR__|${SDAAS_STORE_WAR}|g" \
-	"${JETTY_BASE}/webapps/sdaas.xml" ; \
-	chown jetty.jetty "${JETTY_BASE}/webapps/sdaas.xml"
 
 ####### Configure the override template for war.xml 
-COPY helpers/readonly-template.xml "${JETTY_BASE}/readonly-template.xml"
-RUN chown jetty.jetty "${JETTY_BASE}/readonly-template.xml" 
+COPY helpers/readonly-template.xml "${SDAAS_STORE_ETC}/readonly-template.xml"
+
+####### Install war and default override
+COPY --from=build-stage /sdaas ${SDAAS_STORE_WAR}
+COPY helpers/sdaas-template.xml ${JETTY_BASE}/webapps/sdaas.xml
+RUN sed -i -e "s|__SDAAS_STORE_WAR__|${SDAAS_STORE_WAR}|g" "${JETTY_BASE}/webapps/sdaas.xml" ; \
+	sed 's/__READONLY__/true/' "${SDAAS_STORE_ETC}/readonly-template.xml"  > "${JETTY_BASE}/readonly-override.xml" ;\
+	chown jetty.jetty "${JETTY_BASE}/webapps/sdaas.xml" "${JETTY_BASE}/readonly-override.xml"
+
 
 ####### Configure RWStore.properties file
 RUN sed "s|^com\.bigdata.journal\.AbstractJournal\.file=.*|com.bigdata.journal.AbstractJournal.file=${SDAAS_STORE_DATA}/${SDAAS_STORE_NAME}.jnl|" \
@@ -46,7 +47,6 @@ RUN sed "s|^com\.bigdata.journal\.AbstractJournal\.file=.*|com.bigdata.journal.A
 COPY helpers/sdaas-st* /
 RUN chown jetty.jetty /sdaas-st* ; \
 	chmod +rx /sdaas-st* 
-
 
 	
 USER jetty
