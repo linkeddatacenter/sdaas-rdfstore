@@ -14,12 +14,14 @@ The sdaas-rdfstore requires [docker](https://www.docker.com/)
 
 *Note on windows user: define `export MSYS_NO_PATHCONV=1` to avoid unwanted path conversion [see this note](https://stackoverflow.com/questions/7250130/how-to-stop-mingw-and-msys-from-mangling-path-names-given-at-the-command-line#34386471)*
 	
-	docker run -d --name rdfstore -p 8080:8080 sdaas-rdfstore
-	sleep 10;docker exec rdfstore test -f /var/lib/rdfStore/rdfStore.jnl || echo KO
-	curl -X POST \
-		--data-binary "LOAD <http://wifo5-03.informatik.uni-mannheim.de/benchmarks-200801/homepages-fixed.nt.gz>" \
-		--header "Content-Type: application/sparql-update" \
-		http://localhost:8080/sdaas/sparql  || echo KO
+```bash
+docker run -d --name rdfstore -p 8080:8080 sdaas-rdfstore
+sleep 10;docker exec rdfstore test -f /var/lib/rdfStore/rdfStore.jnl || echo KO
+curl -X POST \
+ --data-binary "LOAD <http://wifo5-03.informatik.uni-mannheim.de/benchmarks-200801/homepages-fixed.nt.gz>" \
+ --header "Content-Type: application/sparql-update" \
+ http://localhost:8080/sdaas/sparql  || echo KO
+```
 
 Test workbench:
 
@@ -72,6 +74,7 @@ To push a new docker image to docker hub:
 
 	docker login
 	docker build -t linkeddatacenter/sdaas-rdfstore .
-	docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:x.x.x
+	docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:2.1.5
 	docker push linkeddatacenter/sdaas-rdfstore
+	docker push linkeddatacenter/sdaas-rdfstore:2.1.5
 

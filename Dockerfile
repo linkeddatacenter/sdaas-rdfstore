@@ -8,7 +8,7 @@ RUN wget -O /blazegraph.war https://github.com/blazegraph/database/releases/down
 	unzip /blazegraph.war -d /sdaas
 
 ### production stage ###
-FROM jetty:9.4-jdk13-slim
+FROM jetty:9.4
 
 LABEL authors="enrico@linkeddata.center"
 
@@ -30,6 +30,8 @@ COPY helpers/readonly-template.xml "${SDAAS_STORE_ETC}/readonly-template.xml"
 
 ####### Install war and default override
 COPY --from=build-stage /sdaas ${SDAAS_STORE_WAR}
+COPY html/images/* ${SDAAS_STORE_WAR}/html/images
+COPY html/favicon.ico ${SDAAS_STORE_WAR}/html/favicon.ico
 COPY helpers/sdaas-template.xml ${JETTY_BASE}/webapps/sdaas.xml
 RUN sed -i -e "s|__SDAAS_STORE_WAR__|${SDAAS_STORE_WAR}|g" "${JETTY_BASE}/webapps/sdaas.xml" ; \
 	sed 's/__READONLY__/true/' "${SDAAS_STORE_ETC}/readonly-template.xml"  > "${JETTY_BASE}/readonly-override.xml" ;\
@@ -47,7 +49,6 @@ RUN sed "s|^com\.bigdata.journal\.AbstractJournal\.file=.*|com.bigdata.journal.A
 COPY helpers/sdaas-st* /
 RUN chown jetty.jetty /sdaas-st* ; \
 	chmod +rx /sdaas-st* 
-
 	
 USER jetty
 ENTRYPOINT ["/sdaas-start"]
