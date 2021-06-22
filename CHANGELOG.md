@@ -5,6 +5,16 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
+## [2.1.5]
+
+### Fixed
+
+- issues #7 #8
+
+### Added
+
+- used LinkedData banner and favicon
+
 ## [2.1.4]
 
 ### Fixed
