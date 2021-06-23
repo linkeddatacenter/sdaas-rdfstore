@@ -14,6 +14,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - used LinkedData banner and favicon
+- installed curl for healtcheck
 
 ## [2.1.4]
 

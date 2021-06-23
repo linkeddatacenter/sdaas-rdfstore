@@ -72,9 +72,11 @@ To persist data and improve performances, you should mount as a fast volume the 
 
 To push a new docker image to docker hub:
 
-	docker login
-	docker build -t linkeddatacenter/sdaas-rdfstore .
-	docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:2.1.5
-	docker push linkeddatacenter/sdaas-rdfstore
-	docker push linkeddatacenter/sdaas-rdfstore:2.1.5
+```bash
+docker login
+docker build -t linkeddatacenter/sdaas-rdfstore .
+docker tag linkeddatacenter/sdaas-rdfstore linkeddatacenter/sdaas-rdfstore:2.1.5
+docker push linkeddatacenter/sdaas-rdfstore
+docker push linkeddatacenter/sdaas-rdfstore:2.1.5
+```
 

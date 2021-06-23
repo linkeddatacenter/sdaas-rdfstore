@@ -8,11 +8,13 @@ RUN wget -O /blazegraph.war https://github.com/blazegraph/database/releases/down
 	unzip /blazegraph.war -d /sdaas
 
 ### production stage ###
-FROM jetty:9.4
+FROM jetty:9.4-jdk16-slim
 
 LABEL authors="enrico@linkeddata.center"
 
 USER root
+
+RUN apt-get update && apt-get -y upgrade && apt-get install -y curl
 
 ENV SDAAS_STORE_NAME=rdfStore
 ENV SDAAS_STORE_LOG=/var/log/${SDAAS_STORE_NAME}
