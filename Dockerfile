@@ -47,6 +47,18 @@ RUN sed "s|^com\.bigdata.journal\.AbstractJournal\.file=.*|com.bigdata.journal.A
 	chown jetty.jetty "${JETTY_BASE}/RWStore.properties" 
 
 
+####### Configure RWStore.properties file for lexical index and geospatial
+ARG TEXT_INDEX=true
+RUN if [ "$TEXT_INDEX" = "true" ]; then \
+	sed -i -e 's/textIndex=false/textIndex=true/' "${JETTY_BASE}/RWStore.properties"; \
+fi
+
+ARG GEO_SPATIAL=true
+RUN if [ "$GEO_SPATIAL" = "true" ]; then \
+	echo "com.bigdata.rdf.store.AbstractTripleStore.geoSpatial=true" >> "${JETTY_BASE}/RWStore.properties"; \
+fi
+
+
 ####### Configure startups scrips
 COPY helpers/sdaas-st* /
 RUN chown jetty.jetty /sdaas-st* ; \

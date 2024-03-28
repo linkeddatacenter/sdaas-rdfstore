@@ -20,7 +20,7 @@ _ETC="${SDAAS_STORE_ETC:-"/etc/$_STORENAME"}"
 function USAGE {
 	>&2 cat <<-EOT
 		Smart Data as a Service (SDaaS) knowledge graph engine
-		Copyright (C) 2018-2020 http://linkeddata.center/
+		Copyright (C) 2018-2024 http://linkeddata.center/
 			
 		startup options:
 		

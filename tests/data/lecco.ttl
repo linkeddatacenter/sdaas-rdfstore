@@ -1,0 +1,1284 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Rigoberto_Ur\u00E1n>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Giro_di_Lombardia	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_twin_towns_and_sister_cities_in_Hungary	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2021\u201322_Serie_C>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Sonia_Bo	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2005\u201306_Inter_Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lake_Como	dbo:wikiPageWikiLink	dbr:Lecco .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Lake_Como	dbp:cities	dbr:Lecco ;
+	dbo:nearestCity	dbr:Lecco .
+dbr:Molteno	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:province	dbr:Lecco ;
+	dbp:province	dbr:Lecco .
+<http://dbpedia.org/resource/Ciolo_(Apulia)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Italy_national_under-17_football_team	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+dbr:Calcio_Lecco_1912	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:ground	dbr:Lecco .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lecco	foaf:primaryTopic	dbr:Lecco .
+dbr:Rockefeller_Foundation	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Igualada	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2021\u201322_Juventus_F.C._Under-23_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+<http://dbpedia.org/resource/2019\u201320_Serie_C>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Italian_General_Confederation_of_Labour	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2000\u201301_S.S._Lazio_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+dbr:Maritime_Squadron_of_the_Armed_Forces_of_Malta	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1993_Italian_local_elections>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Consonno	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2019\u201320_Coppa_Italia_Serie_C>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+<http://dbpedia.org/resource/2010\u201311_Lega_Pro_Seconda_Divisione>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2022\u201323_Serie_C>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2005\u201306_Serie_C2>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2006\u201307_Serie_C2>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pier_Miranda_Ferraro	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Italian_diaspora	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Manuel_Locatelli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:List_of_planetariums	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Caterina_Davinio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Battista_Mombrini	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Canzo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Premana	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Results_of_the_2022_Italian_general_election	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Milan_school_of_physics	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Luigi_Monza	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:deathPlace	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+<http://dbpedia.org/resource/9\u00D725mm_Mauser>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Esino_Lario	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:FS_Class_910	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Felice_Tantardini	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Banca_Popolare_di_Lecco	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/History_of_A.C.R._Messina>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/History_of_the_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Mytishchi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Serie_B	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Dino_Buzzati	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Walk_of_Fame_of_Italian_sport	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Gavriil_Ilizarov	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2011_Giro_di_Lombardia>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cremella	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Bulciago	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Valentino_Giambelli	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Aldo_Rossi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Carlo_Giovanardi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_basilicas_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_companies_of_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_dialling_codes_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Vincenzo_Milazzo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:George_Floyd_protests_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Andrea_Vavassori	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2002\u201303_A.S._Roma_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Tourism_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:War_of_Milan_against_Como	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Alphabetical_list_of_municipalities_of_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Football_derbies_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Italian_partisan_brigades	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_PDO_products_by_country	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_Serie_A_stadiums	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Archimede_Mischi	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Milan\u2013Bologna_high-speed_railway>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Radomir_Damnjanovi\u0107_Damnjan>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_town_tramway_systems_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_twin_towns_and_sister_cities_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2012_Giro_d\u0027Italia,_Stage_12_to_Stage_21>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Hugo_Demarco	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2001\u201302_A.S._Roma_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2015_ITF_Men\u0027s_Circuit_(April\u2013June)>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2016_ITF_Men\u0027s_Circuit_(April\u2013June)>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1979_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1983_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1987_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1992_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1995_Lombard_regional_election>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1958_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1963_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1968_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1972_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1976_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Joaquim_Rodr\u00EDguez>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Serie_C	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:First_Romanesque	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Under-20_Four_Nations_Tournament	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:stadium	dbr:Lecco .
+dbr:List_of_places_with_stolpersteine	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_tallest_church_buildings	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Timeline_of_disability_rights_outside_the_United_States	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_military_headstamps	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:November_1970	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cavanna_family	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Mikhail_Miloradovich	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Rotonda_di_San_Tom\u00E8,_Almenno_San_Bartolomeo>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_mayors_of_Lecco	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:body	dbr:Lecco .
+dbr:Mauro_Gattinoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+<http://dbpedia.org/resource/2020_Italian_local_elections>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2015_Italian_local_elections>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Battle_of_Cassano_(1799)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_ancient_Celtic_peoples_and_tribes	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Angelo_Scola	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_Roman_bridges	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Alpine_Town_of_the_Year	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Bergamo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Monza	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/M\u00E2con>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Roman_Catholic_Archdiocese_of_Milan	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Seregno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Walter_de_Silva	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Cabiate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Trenord	dbo:wikiPageWikiLink	dbr:Lecco .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lecco	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoGeoEntity ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:City108524735 ,
+		yago:WikicatCitiesAndTownsInItaly ,
+		yago:Location100027167 ,
+		yago:District108552138 ,
+		dbo:Place ,
+		dbo:Settlement ,
+		dbo:Location ,
+		yago:GeographicalArea108574314 ,
+		yago:WikicatCitiesAndTownsInLombardy ,
+		yago:Region108630985 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lecco	rdf:type	wikidata:Q486972 .
+@prefix schema:	<http://schema.org/> .
+dbr:Lecco	rdf:type	schema:Place .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Lecco	rdf:type	geo:SpatialThing .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lecco	rdf:type	owl:Thing ,
+		yago:UrbanArea108675967 ,
+		yago:Municipality108626283 ,
+		dbo:PopulatedPlace ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:YagoLegalActorGeo ,
+		dbo:City .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lecco	rdfs:label	"Provinco Lecco"@eo ,
+		"\u041B\u0435\u043A\u043A\u043E (\u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F)"@ru ,
+		"Leccoko probintzia"@eu ,
+		"Provincia de Lecco"@es ,
+		"Lecco"@eo ,
+		"\u30EC\u30C3\u30B3 (\u30EC\u30C3\u30B3\u770C)"@ja ,
+		"\u041B\u0435\u043A\u043A\u043E (\u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u044F)"@uk ,
+		"Prowincja Lecco"@pl ,
+		"Province de Lecco"@fr ,
+		"Lecco"@eu ,
+		"Provincia di Lecco"@it ,
+		"\u0644\u064A\u0643\u0648"@ar ,
+		"Lecco"@pt ,
+		"Lecco (provins)"@sv ,
+		"Lecco (provincie)"@nl ,
+		"\u840A\u79D1\u7701"@zh ,
+		"Lecco"@pl ,
+		"Lecco"@de ,
+		"Lecco (prov\u00EDncia)"@pt ,
+		"\u041B\u0435\u043A\u043A\u043E"@ru ,
+		"Provinsi Lecco"@in ,
+		"\uB808\uCF54\uB3C4"@ko ,
+		"\u039B\u03AD\u03BA\u03BA\u03BF"@el ,
+		"Lecco"@ga ,
+		"Prov\u00EDncia de Lecco"@ca ,
+		"\u041B\u0435\u043A\u043A\u043E"@uk ,
+		"Lecco"@in ,
+		"Provincie Lecco"@cs ,
+		"\uB808\uCF54 (\uB808\uCF54\uD604)"@ko ,
+		"Lecco"@it ,
+		"\u039B\u03AD\u03BA\u03BA\u03BF (\u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1)"@el ,
+		"\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0643\u0648"@ar ,
+		"Lecco (stad)"@nl ,
+		"Lecco"@es ,
+		"\u840A\u79D1"@zh ,
+		"Lecco"@fr ,
+		"Lecco"@ca ,
+		"Provinz Lecco"@de ,
+		"Lecco"@en ,
+		"\u30EC\u30C3\u30B3\u770C"@ja ,
+		"Lecco"@sv ,
+		"Lecco"@cs ;
+	rdfs:comment	"Lecco (Provincia di Lecco) je provincie v italsk\u00E9 oblasti Lombardie. Soused\u00ED na v\u00FDchod\u011B s provinciemi Sondrio a Bergamo, na jihu s provinci\u00ED Milano a na z\u00E1pad\u011B a severu s provinci\u00ED Como. Provincie vznikla v roce 1992 odtr\u017Een\u00EDm obc\u00ED od provinci\u00ED Como a Bergamo."@cs ,
+		"Lecco (AFI: [\u02C8lekko], pronuncia locale [\u02C8l\u025Bkko], , L\u00E8cch in dialetto lecchese [\u02C8l\u025Bk]) \u00E8 un comune italiano di 47 087 abitanti, capoluogo della provincia omonima in Lombardia. Elevato a capoluogo di provincia con decreto del presidente della Repubblica del 6 marzo 1992, ottenne il titolo di citt\u00E0 il 22 giugno 1848 e ad oggi il suo agglomerato urbano supera i centomila abitanti. Nota per essere il luogo in cui lo scrittore Alessandro Manzoni ambient\u00F2 I promessi sposi, la citt\u00E0 \u00E8 situata in uno dei vertici del Triangolo Lariano, sulla sinistra idrografica dell'Adda oltre ad affacciarsi sul ramo orientale del lago di Como ed \u00E8 compresa nelle prealpi orobiche, tra il gruppo delle Grigne e il Resegone."@it ,
+		"\u0397 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u039B\u03AD\u03BA\u03BA\u03BF (\u03B9\u03C4\u03B1\u03BB\u03B9\u03BA\u03AC: Provincia di Lecco) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C3\u03C4\u03B7\u03BD \u03C0\u03B5\u03C1\u03B9\u03C6\u03AD\u03C1\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u039B\u03BF\u03BC\u03B2\u03B1\u03C1\u03B4\u03AF\u03B1\u03C2 \u03C3\u03C4\u03B7\u03BD \u0399\u03C4\u03B1\u03BB\u03AF\u03B1. \u0397 \u03AD\u03BA\u03C4\u03B1\u03C3\u03AE \u03C4\u03B7\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 816 \u03C4.\u03C7\u03BB\u03BC. \u03BA\u03B1\u03B9 \u03BF \u03C0\u03BB\u03B7\u03B8\u03C5\u03C3\u03BC\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03B1\u03BD\u03AD\u03C1\u03C7\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 328.057 (2008) \u03BA\u03B1\u03C4\u03BF\u03AF\u03BA\u03BF\u03C5\u03C2. \u0388\u03B4\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF (Lecco). \u03A3\u03C5\u03BD\u03BF\u03BB\u03B9\u03BA\u03AC, \u03B7 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03B1\u03C1\u03B9\u03B8\u03BC\u03B5\u03AF 90 \u03B4\u03AE\u03BC\u03BF\u03C5\u03C2. \u03A3\u03C5\u03BD\u03BF\u03C1\u03B5\u03CD\u03B5\u03B9 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1 \u03BA\u03B1\u03B9 \u03B4\u03C5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u039A\u03CC\u03BC\u03BF, \u03BD\u03CC\u03C4\u03B9\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03B7\u03C2 \u039C\u03CC\u03BD\u03C4\u03C3\u03B1-\u039C\u03C0\u03C1\u03B9\u03AC\u03BD\u03C4\u03C3\u03B1, \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03A3\u03CC\u03BD\u03C4\u03C1\u03B9\u03BF \u03BA\u03B1\u03B9 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u039C\u03C0\u03AD\u03C1\u03B3\u03BA\u03B1\u03BC\u03BF."@el ,
+		"Lecco \u00E4r en stad och kommun i regionen Lombardiet i norra Italien. Staden \u00E4r administrativ huvudort i provinsen med samma namn. Den ligger vid den s\u00F6dra \u00E4nden av Comosj\u00F6ns \u00F6stra arm, d\u00E4r floden Adda har sitt utfl\u00F6de. Kommunen hade 48 333 inv\u00E5nare (2018) och gr\u00E4nsar till kommunerna Abbadia Lariana, Ballabio, Brumano, Erve, Galbiate, Garlate, Malgrate, Mandello del Lario, Morterone, Pescate, Valmadrera och Vercurago."@sv ,
+		"\u041F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u044F \u041B\u0435\u043A\u043A\u043E (\u0456\u0442\u0430\u043B. Provincia di Lecco) \u2014 \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u044F \u0432 \u0406\u0442\u0430\u043B\u0456\u0457, \u0443 \u0440\u0435\u0433\u0456\u043E\u043D\u0456 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0456\u044F. \u041F\u043B\u043E\u0449\u0430 \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u2014 816 \u043A\u043C\u00B2, \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u2014 341 751 \u043E\u0441\u0456\u0431. \u0421\u0442\u043E\u043B\u0438\u0446\u0435\u044E \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u0454 \u043C\u0456\u0441\u0442\u043E \u041B\u0435\u043A\u043A\u043E."@uk ,
+		"Lecco \u00E9 uma comuna italiana da regi\u00E3o da Lombardia, prov\u00EDncia de Lecco, com cerca de 45.507 habitantes. Estende-se por uma \u00E1rea de 45 km\u00B2, tendo uma densidade populacional de 1011 hab/km\u00B2. Faz fronteira com Abbadia Lariana, Ballabio, Brumano (BG), Erve, Galbiate, Garlate, Malgrate, Mandello del Lario, Morterone, Pescate, Valmadrera, Vercurago. A cidade \u00E8 muito conhecida por ser um dos lugares da ambienta\u00E7\u00E3o dos Noivos de Alessandro Manzoni."@pt ,
+		"\uB808\uCF54(Lecco)\uB294 \uC774\uD0C8\uB9AC\uC544 \uBD81\uBD80 \uB86C\uBC14\uB974\uB514\uC544\uC8FC\uC758 \uB3C4\uC2DC\uB85C, \uB808\uCF54\uB3C4\uC758 \uD604\uB3C4\uC774\uB2E4. \uBC00\uB77C\uB178\uC5D0\uC11C \uC57D 50km \uBD81\uCABD\uC5D0 \uC704\uCE58\uD574 \uC788\uB2E4. \uCF54\uBAA8 \uD638\uC218\uC758 \uCF54\uBAA8\uAC00 \uD070 \uD638\uD154\uC774 \uC874\uC7AC\uD558\uC5EC \uAD00\uAD11\uAC1D\uB4E4\uC5D0\uAC8C \uC54C\uB824\uC9C4 \uACBD\uC6B0, \uB808\uCF54 \uC9C0\uC810\uC740 \uC5ED\uC0AC\uC801\uC73C\uB85C \uAC00\uC7A5 \uC911\uC694\uD558\uACE0 \uB3C5\uC810\uC801\uC774\uBA70 \uAC00\uC7A5 \uC544\uB984\uB2E4\uC6B4 \uD638\uC218\uC640 \uC0B0 \uD658\uACBD\uC73C\uB85C L\u00E9onard de Vinci\uAC00 \uC624\uB7AB\uB3D9\uC548 \uACF5\uBD80\uD588\uC2B5\uB2C8\uB2E4. , \uC5EC\uAE30\uC5D0\uC11C \uC704\uB300\uD55C \uC774\uD0C8\uB9AC\uC544 \uC0B0\uC5C5 \uC8FC\uC758\uC790\uB4E4\uACFC \uADC0\uC871\uB4E4\uC758 \uAE30\uBC00\uC801\uC774\uACE0 \uC228\uACA8\uC9C4 \uBE4C\uB77C\uC640 \uACE0\uB300 \uB85C\uB9C8\uC758 \uADC0\uC871\uB4E4, \uBE4C\uB77C \uCF54\uBBF8\uB514\uC544 \uB4DC \uD50C\uB9AC \uB178 (Villa Comedia de Plinio)\uB97C \uD3EC\uD568\uD558\uC5EC \uB9AC\uB098 (Liena)\uC758 \uBE44\uBC00 \uB9C8\uC744\uC5D0\uC788\uB294 \uC80A\uC740\uC774, \uC0AC\uBCF4\uC774\uC758 \uC774\uD0C8\uB9AC\uC544 \uC655\uC2E4."@ko ,
+		"Lecco (en italiano, Provincia di Lecco) es una provincia italiana de la regi\u00F3n de Lombard\u00EDa, en el norte de Italia. Tiene una poblaci\u00F3n estimada, a fines de marzo de 2022, de 332 203 habitantes.\u200B Su capital es la ciudad de Lecco."@es ,
+		"Lecco je italsk\u00E9 m\u011Bsto v oblasti Lombardie, hlavn\u00ED m\u011Bsto stejnojmenn\u00E9 provincie. V roce 2012 zde \u017Eilo 47 240 obyvatel."@cs ,
+		"Lecco merupakan nama kota di Region Lombardia, Provinsi Lecco, Italia. Pada tahun 2004, kota ini memiliki jumlah penduduk sebanyak 46.477 jiwa dan memiliki luas wilayah 45 km\u00B2. Jika sisi como Danau Como telah dikenal oleh wisatawan karena kehadiran hotel -hotel besar, cabang Lecco secara historis adalah yang paling penting dan eksklusif dan dengan danau yang paling indah dan pengaturan gunung, dipelajari untuk waktu yang lama oleh L\u00E9onard de Vinci , di sini vila -vila rahasia dan tersembunyi dari para industrialis dan bangsawan Italia yang agung, serta para bangsawan Roma kuno, termasuk Villa Comedia de Plinio, pemuda di desa rahasia Liena, fondasi ordo para ksatria dari para ksatria Keluarga Kerajaan Italia dari Savoy."@in ,
+		"Lecco \u2212 miasto i gmina we W\u0142oszech, w regionie Lombardia, w prowincji Lecco. Wed\u0142ug danych na rok 2004 gmin\u0119 zamieszkiwa\u0142o 45 507 os\u00F3b, 1011,3 os./km\u00B2. W mie\u015Bcie znajduje si\u0119 stacja kolejowa Lecco. Lecco zosta\u0142o uhonorowane tytu\u0142em Alpejskiego Miasta Roku 2013."@pl ,
+		"Lecco (US: /\u02C8l\u025Bko\u028A, \u02C8le\u026Ako\u028A/, Italian: [\u02C8lekko], locally [\u02C8l\u025Bkko]; Lecchese: L\u00E8cch [\u02C8l\u025Bk]) is a city of 48,131 inhabitants in Lombardy, northern Italy, 50 kilometres (31 mi) north of Milan. It lies at the end of the south-eastern branch of Lake Como (the branch is named Branch of Lecco / Ramo di Lecco). The Bergamo Alps rise to the north and east, cut through by the Valsassina of which Lecco marks the southern end. Lecco was also Alpine Town of the Year in 2013. Lecco has a population of 48131 inhabitants."@en ,
+		"\uB808\uCF54\uB3C4(\uC774\uD0C8\uB9AC\uC544\uC5B4: Provincia di Lecco)\uC740 \uC774\uD0C8\uB9AC\uC544 \uBD81\uBD80 \uB86C\uBC14\uB974\uB514\uC544\uC8FC\uC758 \uB3C4\uC774\uB2E4. \uD604\uB3C4\uB294 \uC774\uB2E4. \uBA74\uC801\uC740 816 km2, \uC778\uAD6C\uB294 337,912(2009)\uC774\uB2E4."@ko ,
+		"Prowincja Lecco (w\u0142. Provincia di Lecco) \u2013 prowincja we W\u0142oszech. Nadrz\u0119dn\u0105 jednostk\u0105 podzia\u0142u administracyjnego jest region (tu: Lombardia), a podrz\u0119dn\u0105 jest gmina. Liczba gmin w prowincji: 90."@pl ,
+		"\u30EC\u30C3\u30B3\uFF08\u30A4\u30BF\u30EA\u30A2\u8A9E: Lecco\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u5171\u548C\u56FD\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3\u30A2\u5DDE\u306B\u3042\u308B\u90FD\u5E02\u3067\u3042\u308A\u3001\u305D\u306E\u5468\u8FBA\u5730\u57DF\u3092\u542B\u3080\u4EBA\u53E3\u7D0447,400\u4EBA\u306E\u57FA\u790E\u81EA\u6CBB\u4F53\uFF08\u30B3\u30E0\u30FC\u30CD\uFF09\u3002\u30EC\u30C3\u30B3\u770C\u306E\u770C\u90FD\u3067\u3042\u308B\u3002 \u30B3\u30E2\u6E56\u306E\u5357\u6771\u7AEF\u306B\u4F4D\u7F6E\u3059\u308B\u3002"@ja ,
+		"\u041B\u0435\u0301\u043A\u043A\u043E (\u0438\u0442\u0430\u043B. Lecco [\u02C8lek\u02D0o, \u02C8l\u025B\u02D1k\u02D0o] , \u043C\u0435\u0441\u0442\u043D. Lecch [\u02C8l\u025Bk\u02D0], \u0438\u0441\u0442. \u043D\u0435\u043C. Leck) \u2014 \u043A\u043E\u043C\u043C\u0443\u043D\u0430 \u0432 \u0418\u0442\u0430\u043B\u0438\u0438, \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u0435\u0442\u0441\u044F \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438\u044F (\u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u041B\u0435\u043A\u043A\u043E), \u043D\u0430 \u044E\u0433\u0435 \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0433\u043E \u043B\u0438\u043C\u0430\u043D\u0430 \u043E\u0437\u0435\u0440\u0430 \u041A\u043E\u043C\u043E. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 47 319 \u0447\u0435\u043B\u043E\u0432\u0435\u043A (2008 \u0433.), \u043F\u043B\u043E\u0442\u043D\u043E\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u2014 1044,6 \u0447\u0435\u043B./\u043A\u043C\u00B2. \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 45 \u043A\u043C\u00B2. \u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441 \u2014 23900. \u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u044B\u0439 \u043A\u043E\u0434 \u2014 0341. \u041F\u043E\u043A\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044F\u043C\u0438 \u043A\u043E\u043C\u043C\u0443\u043D\u044B \u043F\u043E\u0447\u0438\u0442\u0430\u044E\u0442\u0441\u044F \u0441\u0432\u044F\u0442\u0438\u0442\u0435\u043B\u044C \u041D\u0438\u043A\u043E\u043B\u0430\u0439, \u043F\u0440\u0430\u0437\u0434\u043D\u043E\u0432\u0430\u043D\u0438\u0435 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F, \u0438 \u043F\u0435\u0440\u0432\u043E\u043C\u0443\u0447\u0435\u043D\u0438\u043A \u0421\u0442\u0435\u0444\u0430\u043D. \u0412 \u041B\u0435\u043A\u043A\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0434\u0438\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u043E\u0433\u043E \u0440\u043E\u043C\u0430\u043D\u0430 \u00AB\u041E\u0431\u0440\u0443\u0447\u0451\u043D\u043D\u044B\u0435\u00BB, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043D\u0430\u043F\u0438\u0441\u0430\u043B \u0443\u0440\u043E\u0436\u0435\u043D\u0435\u0446 \u0433\u043E\u0440\u043E\u0434\u0430 \u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u043E \u041C\u0430\u043D\u0434\u0437\u043E\u043D\u0438."@ru ,
+		"Lecco (lombardisch: L\u00E8cch [\u02C8l\u025Bk\u02D0]; dt. veraltet: Leck) ist eine italienische Gemeinde und Hauptstadt der gleichnamigen Provinz Lecco in der Region Lombardei mit 48.173 (Stand 31. Dezember 2019) Einwohnern."@de ,
+		"\u840A\u79D1\uFF08Lecco\uFF09\uFF0C\u4F4D\u4E8E\u7C73\u5170\u4EE5\u531750\u516C\u91CC\uFF0C\u662F\u610F\u5927\u5229\u4F26\u5DF4\u7B2C\u653F\u533A\u7684\u4E00\u4E2A\u57CE\u5E02\uFF0C\u4E3A\u83B1\u79D1\u7701\u7684\u9996\u5E9C\u30022017\u5E74\u65F6\u4EBA\u53E3\u4E3A48,366\u4EBA\uFF0C\u4EBA\u53E3\u5BC6\u5EA6\u4E3A1,100\u4EBA/\u5E73\u65B9\u516C\u91CC\u3002"@zh ,
+		"\u03A4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF (\u03B9\u03C4\u03B1\u03BB\u03B9\u03BA\u03AC: Lecco) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03CC\u03BB\u03B7 \u03BA\u03B1\u03B9 \u03B4\u03AE\u03BC\u03BF\u03C2 \u03C3\u03C4\u03B7 \u039B\u03BF\u03BC\u03B2\u03B1\u03C1\u03B4\u03AF\u03B1 \u03C3\u03C4\u03B7 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1 \u0399\u03C4\u03B1\u03BB\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03AD\u03B4\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03BF\u03BC\u03CE\u03BD\u03C5\u03BC\u03B7\u03C2 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1\u03C2. \u039F \u03C0\u03BB\u03B7\u03B8\u03C5\u03C3\u03BC\u03CC\u03C2 \u03C4\u03BF\u03C5 \u03C4\u03BF 2019 \u03AE\u03C4\u03B1\u03BD 48.555 \u03BA\u03AC\u03C4\u03BF\u03B9\u03BA\u03BF\u03B9. \u0395\u03AF\u03BD\u03B1\u03B9 \u03BA\u03C4\u03B9\u03C3\u03BC\u03AD\u03BD\u03B7 \u03C3\u03C4\u03BF \u03BD\u03CC\u03C4\u03B9\u03BF \u03AC\u03BA\u03C1\u03BF \u03C4\u03BF\u03C5 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03BF\u03CD \u03B2\u03C1\u03B1\u03C7\u03AF\u03BF\u03BD\u03B1 \u03C4\u03B7\u03C2 \u03BB\u03AF\u03BC\u03BD\u03B7\u03C2 \u039A\u03CC\u03BC\u03BF, \u03C3\u03C4\u03BF \u03C3\u03B7\u03BC\u03B5\u03AF\u03BF \u03CC\u03C0\u03BF\u03C5 \u03BF \u03C0\u03BF\u03C4\u03B1\u03BC\u03CC\u03C2 \u0391\u03B4\u03BF\u03CD\u03B1\u03C2 \u03B5\u03BA\u03C1\u03AD\u03B5\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7 \u03BB\u03AF\u03BC\u03BD\u03B7. \u03A0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03B2\u03BF\u03C5\u03BD\u03AC, \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C4\u03C9\u03BD \u0386\u03BB\u03C0\u03B5\u03C9\u03BD, \u03BA\u03B1\u03B9 \u03C3\u03C5\u03B3\u03BA\u03B5\u03BA\u03C1\u03B9\u03BC\u03AD\u03BD\u03B1 \u03C4\u03B1 \u0393\u03BA\u03C1\u03AF\u03BD\u03B9\u03BF \u03BA\u03B1\u03B9 \u03A1\u03B5\u03B6\u03B5\u03B3\u03BA\u03CC\u03BD\u03B5. \u0395\u03AC\u03BD \u03B7 \u03C0\u03BB\u03B5\u03C5\u03C1\u03AC \u03C4\u03BF\u03C5 Como \u03C4\u03B7\u03C2 \u03BB\u03AF\u03BC\u03BD\u03B7\u03C2 Como \u03AD\u03C7\u03B5\u03B9 \u03B3\u03AF\u03BD\u03B5\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03AE \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C4\u03BF\u03C5\u03C1\u03AF\u03C3\u03C4\u03B5\u03C2 \u03BB\u03CC\u03B3\u03C9 \u03C4\u03B7\u03C2 \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1\u03C2 \u03BC\u03B5\u03B3\u03AC\u03BB\u03C9\u03BD \u03BE\u03B5\u03BD\u03BF\u03B4\u03BF\u03C7\u03B5\u03AF\u03C9\u03BD, \u03C4\u03BF \u03C5\u03C0\u03BF\u03BA\u03B1\u03C4\u03AC\u03C3\u03C4\u03B7\u03BC\u03B1 Lecco \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B9\u03C3\u03C4\u03BF\u03C1\u03B9\u03BA\u03AC \u03C4\u03BF \u03C0\u03B9\u03BF \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC \u03BA\u03B1\u03B9 \u03B1\u03C0\u03BF\u03BA\u03BB\u03B5\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC \u03BA\u03B1\u03B9 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03C0\u03B9\u03BF \u03CC\u03BC\u03BF\u03C1\u03C6\u03B7 \u03BB\u03AF\u03BC\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B2\u03BF\u03C5\u03BD\u03CC, \u03C0\u03BF\u03C5 \u03BC\u03B5\u03BB\u03B5\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B3\u03B9\u03B1 \u03C0\u03BF\u03BB\u03CD \u03BA\u03B1\u03B9\u03C1\u03CC \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD L\u00E9onard de Vinci , \u03B5\u03B4\u03CE \u03BF\u03B9 \u03B5\u03BC\u03C0\u03B9\u03C3\u03C4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AD\u03C2 \u03BA\u03B1\u03B9 \u03BA\u03C1\u03C5\u03BC\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B2\u03AF\u03BB\u03B5\u03C2 \u03C4\u03C9\u03BD \u03BC\u03B5\u03B3\u03AC\u03BB\u03C9\u03BD \u0399\u03C4\u03B1\u03BB\u03CE\u03BD \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03AC\u03BD\u03C9\u03BD \u03BA\u03B1\u03B9 \u03B5\u03C5\u03B3\u03B5\u03BD\u03CE\u03BD, \u03BA\u03B1\u03B8\u03CE\u03C2 \u03BA\u03B1\u03B9 \u03BF\u03B9 \u03B5\u03C5\u03B3\u03B5\u03BD\u03B5\u03AF\u03C2 \u03C4\u03B7\u03C2 \u03B1\u03C1\u03C7\u03B1\u03AF\u03B1\u03C2 \u03A1\u03CE\u03BC\u03B7\u03C2, \u03C3\u03C5\u03BC\u03C0\u03B5\u03C1\u03B9\u03BB\u03B1\u03BC\u03B2\u03B1\u03BD\u03BF\u03BC\u03AD\u03BD\u03B7\u03C2 \u03C4\u03B7\u03C2 Vi"@el ,
+		"\u0644\u064A\u0643\u0651\u0648 (\u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629: Lecco)\u200F\u060C \u0645\u062F\u064A\u0646\u0629 \u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0641\u064A \u0625\u0642\u0644\u064A\u0645 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627 \u0648\u0639\u0627\u0635\u0645\u0629 \u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0643\u0648 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 47.006 \u0646\u0633\u0645\u0629\u060C \u062A\u0628\u0639\u062F \u0639\u0646 \u0645\u062F\u064A\u0646\u0629 \u0645\u064A\u0644\u0627\u0646\u0648 50 \u0643\u0645 \u0634\u0645\u0627\u0644\u0627 \u0639\u0646\u062F \u0627\u0644\u0637\u0631\u0641 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0627\u0644\u0634\u0631\u0642\u064A \u0644\u0628\u062D\u064A\u0631\u0629 \u0643\u0648\u0645\u0648 \u062D\u064A\u062B \u062A\u0636\u064A\u0642 \u0634\u064A\u0626\u0627 \u0641\u0634\u064A\u0626\u0627 \u0644\u064A\u062A\u0634\u0643\u0644 \u0646\u0647\u0631 \u0623\u062F\u0627 \u0627\u0644\u0630\u064A \u0639\u0644\u064A\u0647 \u062B\u0644\u0627\u062B\u0629 \u062C\u0633\u0648\u0631 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0644\u064A\u0643\u0648.\u0625\u0630\u0627 \u0643\u0627\u0646 \u0643\u0648\u0645\u0648 \u0647\u0648 \u0627\u0644\u062C\u0627\u0646\u0628 \u0627\u0644\u0630\u064A \u0623\u0635\u0628\u062D \u0645\u0639\u0631\u0648\u0641\u064B\u0627 \u0644\u0644\u0633\u064A\u0627\u062D \u0628\u0633\u0628\u0628 \u0648\u062C\u0648\u062F \u0627\u0644\u0641\u0646\u0627\u062F\u0642 \u0627\u0644\u0643\u0628\u064A\u0631\u0629 \u060C \u0641\u0625\u0646 \u0641\u0631\u0639 \u0644\u064A\u0643\u0648 \u0647\u0648 \u0627\u0644\u0623\u0647\u0645 \u062A\u0627\u0631\u064A\u062E\u064A\u064B\u0627 \u0648\u0645\u0639 \u0623\u062C\u0645\u0644 \u0628\u062D\u064A\u0631\u0629 \u0648\u062C\u0628\u0644 \u060C \u062F\u0631\u0633 \u0644\u0641\u062A\u0631\u0629 \u0637\u0648\u064A\u0644\u0629 \u0645\u0646 \u0642\u0628\u0644 \u0644\u064A\u0648\u0646\u0627\u0631\u062F\u0648 \u062F\u0627\u0641\u0646\u0634\u064A \u060C \u0647\u0646\u0627 \u0627\u0644\u0645\u062D\u062C\u0648\u0632 \u0648\u0627\u0644\u0641\u064A\u0644\u0627\u062A \u0627\u0644\u0645\u062E\u0641\u064A\u0629 \u0644\u0643\u0628\u0627\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064A\u064A\u0646 \u0648\u0627\u0644\u0646\u0628\u0644\u0627\u0621 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u064A\u0646 \u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0646\u0628\u0644\u0627\u0621 \u0631\u0648\u0645\u0627 \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0641\u064A\u0644\u0627 \u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0644\u0628\u0644\u064A\u0646\u064A \u0627\u0644\u0623\u0635\u063A\u0631 \u0641\u064A \u0642\u0631\u064A\u0629 \u0644\u064A\u064A\u0631\u0646\u0627 \u0627\u0644\u0633\u0631\u064A\u0629 \u060C \u0645\u0643\u0627\u0646 \u062A\u0623\u0633\u064A\u0633 \u0648\u0633\u0627\u0645 \u0641\u0627\u0631\u0633 \u0645\u0646 \u0627\u0644\u0639\u0627\u0626\u0644\u0629 \u0627\u0644\u0645\u0627\u0644\u0643\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0641\u064A \u0633\u0627\u0641\u0648\u064A."@ar ,
+		"Lecco est une ville de la province du m\u00EAme nom en Lombardie (Italie). La ville porte le titre de Ville des Alpes de l'Ann\u00E9e 2013."@fr ,
+		"Leccoko probintzia Italiako iparraldean eta Lonbardiako eskualdean kokatuta dago. Lecco hiri nagusia eta hiriburua da."@eu ,
+		"La prov\u00EDncia de Lecco \u00E9s una prov\u00EDncia que forma part de la regi\u00F3 de Llombardia dins It\u00E0lia. La seva capital \u00E9s Lecco. Limita al nord i a l'oest amb la prov\u00EDncia de Como, a l'est i al nord amb la prov\u00EDncia de Sondrio, a l'est amb la prov\u00EDncia de B\u00E8rgam i al sud amb la prov\u00EDncia de Monza i Brianza. T\u00E9 una \u00E0rea de 814,58 km\u00B2, i una poblaci\u00F3 total de 339.384 hab. (2016). Hi ha 88 municipis a la prov\u00EDncia."@ca ,
+		"Lecco \u00E4r en provins i regionen Lombardiet i Italien. Lecco \u00E4r huvudort i provinsen. Provinsen bildades 1992 med 84 kommuner fr\u00E5n provinsen Como och 6 kommuner fr\u00E5n provinsen Bergamo varav en Torre de' Busi 2017 \u00E5tergick till Bergamo."@sv ,
+		"Lecco Italiako udalerri bat da. Leccoko probintzian kokatuta dago, Lombardia eskualdean. 48.177 biztanle ditu, 45,14 kilometro koadroko azaleran banatuta."@eu ,
+		"Lecco es una ciudad italiana, capital de la provincia hom\u00F3nima, perteneciente a la regi\u00F3n de Lombard\u00EDa. Ubicada junto al lago Como, contaba con una poblaci\u00F3n de 47 376 habitantes en 2021. Si Como es el lado que se ha hecho conocido por los turistas debido a la presencia de grandes hoteles, la sucursal de Lecco es hist\u00F3ricamente la m\u00E1s importante y con el paisaje lacustre y monta\u00F1oso m\u00E1s hermoso, estudiado durante mucho tiempo por Leonardo da Vinci, aqu\u00ED el reservado y villas escondidas de los grandes industriales y nobles italianos, as\u00ED como de los nobles de la Antigua Roma, incluida la Villa Comedia de Plinio el Joven en el pueblo secreto de Lierna, el lugar de fundaci\u00F3n de la Orden de Caballer\u00EDa de la familia real italiana de Saboya."@es ,
+		"Lecco (bahasa Italia: Provincia di Lecco) adalah sebuah provinsi di regione Lombardia di Italia. Ibu kotanya berada di kota Lecco. Luasnya Provinsi Lecco 816 km\u00B2, dan populasinya sebesar 337.912 (2009). Ada 90 komune di provinsi ini."@in ,
+		"\u041B\u0435\u043A\u043A\u043E (\u0456\u0442\u0430\u043B. Lecco) \u2014 \u043C\u0443\u043D\u0456\u0446\u0438\u043F\u0430\u043B\u0456\u0442\u0435\u0442 \u0432 \u0406\u0442\u0430\u043B\u0456\u0457, \u0443 \u0440\u0435\u0433\u0456\u043E\u043D\u0456 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0456\u044F, \u0441\u0442\u043E\u043B\u0438\u0446\u044F \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u041B\u0435\u043A\u043A\u043E. \u041B\u0435\u043A\u043A\u043E \u0440\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0435 \u043D\u0430 \u0432\u0456\u0434\u0441\u0442\u0430\u043D\u0456 \u0431\u043B\u0438\u0437\u044C\u043A\u043E 510 \u043A\u043C \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447\u043D\u0438\u0439 \u0437\u0430\u0445\u0456\u0434 \u0432\u0456\u0434 \u0420\u0438\u043C\u0430, 50 \u043A\u043C \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447 \u0432\u0456\u0434 \u041C\u0456\u043B\u0430\u043D\u0430. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u2014 48 141 \u043E\u0441\u043E\u0431\u0430 (2014).\u0429\u043E\u0440\u0456\u0447\u043D\u0438\u0439 \u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043B\u044C \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0454\u0442\u044C\u0441\u044F 6 \u0433\u0440\u0443\u0434\u043D\u044F. \u041F\u043E\u043A\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C \u2014 San Nicol\u00F2."@uk ,
+		"\u30EC\u30C3\u30B3\u770C\uFF08\u30EC\u30C3\u30B3\u3051\u3093\u3001\u30A4\u30BF\u30EA\u30A2\u8A9E: Provincia di Lecco\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u5171\u548C\u56FD\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3\u30A2\u5DDE\u306B\u5C5E\u3059\u308B\u770C\u306E\u4E00\u3064\u3002\u770C\u90FD\u306F\u30EC\u30C3\u30B3\u3002"@ja ,
+		"La Provinco Lecco - itale provincia de Lecco - estas provinco en regiono Lombardio, en la norda Italio. Fine de 2020 en la teritorio vivis 333 344 lo\u011Dantoj. \u011Ci estis efektivigata en 1992, kiam iom da komunumoj estis forigita de la provincoj de Como kaj Bergamo kaj nova teritoria disdivido estis realigata. La provinco de Lodi, anka\u016D en Lombardio, estis efektivigata dum la sama jaro. La provinco Lecco samlimas la provincon Como norde kaj okcidente, la provincon Monza kaj Brianco sude, la provincon Bergamo oriente, kaj la provincon Sondrio oriente kaj norde."@eo ,
+		"La provincia di Lecco \u00E8 una provincia italiana della Lombardia di 332 435 abitanti, il cui capoluogo \u00E8 la citt\u00E0 di Lecco. \u00C8 stata istituita dallo scorporo della porzione orientale della provincia di Como (84 comuni) e 6 comuni appartenenti alla provincia di Bergamo (totale di 90 comuni) con decreto del presidente della Repubblica 6 marzo 1992, n. 250. Le elezioni per la nomina del primo presidente della provincia di Lecco si sono tenute il 23 aprile (primo turno) e il 7 maggio 1995 (ballottaggio). La proclamazione del presidente, l'avvocato Mario Anghileri, \u00E8 avvenuta il 9 maggio seguente. A partire dal 2013 si sono susseguiti 4 referendum consultivi per accorpare alcuni comuni e 1 per cambiare provincia, attestando il numero totale dei comuni a 84."@it ,
+		"Lecco (en llombard Lec) \u00E9s un municipi itali\u00E0, situat a la regi\u00F3 de la Llombardia i a la prov\u00EDncia de Lecco. L'any 2006 tenia 47.007 habitants.Si Como \u00E9s el costat que s'ha fet conegut pels turistes per la pres\u00E8ncia de grans hotels, la branca de Lecco \u00E9s hist\u00F2ricament la m\u00E9s important i amb l'entorn de llac i muntanya m\u00E9s bonic, estudiat durant molt de temps per Leonardo da Vinci, aqu\u00ED el reservat. i vil\u00B7les ocultes dels grans industrials i nobles italians, aix\u00ED com dels nobles de l'Antiga Roma, inclosa la Villa Commedia de Plini el Jove al poble secret de Lierna, lloc de fundaci\u00F3 de l'Ordre Cavaller de la fam\u00EDlia reial italiana de Savoia."@ca ,
+		"Lecco [Leko] estas komunumo de Italio, situanta \u0109e lago de Como kaj apud la rivero de Adda. \u011Ci apartenas al la regiono Lombardio kaj estas la \u0109efurbo de la samnoma provinco Lecco. Fine de 2018 en la komunumo vivis 48 177 lo\u011Dantoj. Kristana patrono estas la sankta Nikolao, kies memortago sekve estas la komunuma festotago. Najbaras la komunumoj Abbadia Lariana, Ballabio, Erve, Galbiate, Garlate, Malgrate, Mandello del Lario, Morterone, Pescate, Valmadrera kaj Vercurago. Acquate estas kvartalo (frazione) de la urbo Lecco."@eo ,
+		"A prov\u00EDncia de Lecco \u00E9 uma prov\u00EDncia italiana da regi\u00E3o da Lombardia com cerca de 311 452 habitantes, densidade de 381 hab/km\u00B2. Est\u00E1 dividida em 90 comunas, sendo a capital Lecco. Faz fronteira a leste com a prov\u00EDncia de Sondrio e com a prov\u00EDncia de B\u00E9rgamo, a sul com a prov\u00EDncia de Monza e Brianza e a oeste e a norte com a prov\u00EDncia de Como. Foi institu\u00EDda em 1992 com comunas desanexadas \u00E0s prov\u00EDncias de Como e de B\u00E9rgamo."@pt ,
+		"Is cathair i r\u00E9igi\u00FAn An Lombaird san Iod\u00E1il \u00E9 Lecco. Bh\u00ED 48,114 duine ina gc\u00F3na\u00ED i Lecco i 2010."@ga ,
+		"\u041B\u0435\u043A\u043A\u043E (\u0438\u0442\u0430\u043B. Provincia di Lecco, \u043B\u043E\u043C\u0431. Pruvincia de Lecch) \u2014 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u0432 \u0418\u0442\u0430\u043B\u0438\u0438, \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438\u044F. \u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u0438\u043C\u0435\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 816 \u043A\u043C\u00B2 \u0438 \u043F\u043E\u0434\u0435\u043B\u0435\u043D\u0430 \u043D\u0430 90 \u043A\u043E\u043C\u043C\u0443\u043D. \u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0430 \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442\u0441\u043A\u0438\u043C \u0434\u0435\u043A\u0440\u0435\u0442\u043E\u043C \u043E\u0442 6 \u043C\u0430\u0440\u0442\u0430 1992 \u0433\u043E\u0434\u0430 \u2116 250. \u0412\u044B\u0431\u043E\u0440\u044B \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442\u0430 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0438\u0441\u044C \u0432\u0435\u0441\u043D\u043E\u0439 1995 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u043C \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442\u043E\u043C \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0441\u0442\u0430\u043B \u041C\u0430\u0440\u0438\u043E \u0410\u043D\u0433\u0438\u043B\u044C\u0435\u0440\u0438, \u0432\u0441\u0442\u0443\u043F\u0438\u0432\u0448\u0438\u0439 \u0432 \u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C 9 \u043C\u0430\u044F 1995 \u0433\u043E\u0434\u0430."@ru ,
+		"Lecco is een stad in Lombardije, Itali\u00EB gelegen 50 kilometer ten noordoosten van Milaan. Het is de hoofdstad van de gelijknamige provincie. De stad telt ruim 48.000 inwoners (30-09-2017). De stad is gelegen aan de zuidoostelijke punt van het Comomeer, daar waar de rivier de Adda het meer verlaat. Lecco is omgeven door de bergen Resegone, Monte Barro en San Martino. Drie bruggen verbinden Lecco met de westoever van de Adda. Lecco en omliggend gebied behoorden van de 18e tot halverwege de 19e eeuw bij Oostenrijk, tot het ingelijfd werd bij het nieuwe koninkrijk Itali\u00EB."@nl ,
+		"\u840A\u79D1\u7701\uFF08\u7FA9\u5927\u5229\u8A9E\uFF1AProvincia di Lecco\uFF09\u662F\u610F\u5927\u5229\u4F26\u5DF4\u7B2C\u5927\u533A\u7684\u4E00\u500B\u7701\u3002\u9762\u7A4D805.61\u5E73\u65B9\u516C\u91CC\uFF0C2017\u5E74\u4EBA\u53E3337,211\u4EBA\u3002\u9996\u5E9C\u840A\u79D1\u3002\u4E0B\u520687\u5E02\u93AE\u3002 \u8BE5\u7701\u6700\u9AD8\u70B9\u4E3A\u6D77\u62D42609\u7C73\u7684\u83B1\u683C\u519C\u5C71\u3002"@zh ,
+		"Lecco is een van de provincies in de Italiaanse regio Lombardije. De hoofdstad is de stad Lecco. De offici\u00EBle afkorting is LC. De provincie telt ongeveer 311.000 inwoners op een oppervlakte van 816 km\u00B2. Lecco is ontstaan in 1992 als afsplitsing van de provincies Bergamo en Como. Tot het grondgebied hoort de gehele oostoever van het Comomeer en deels het gebied ten westen van de zuidoostflank van het meer. De provincie is grotendeels bergachtig met als hoogste top de Grigna met 2410 meter, behorend tot de Lombardische Alpen. Overige plaatsen van enig belang zijn Colico, Bellano en Merate."@nl ,
+		"Die Provinz Lecco ist eine italienische Provinz im Norden der Region Lombardei. Sie hat 337.087 Einwohner (Stand 31. Dezember 2019) in 84 Gemeinden auf einer Fl\u00E4che von 816,17 km\u00B2. Zu ihren gr\u00F6\u00DFten Gemeinden z\u00E4hlen Calolziocorte, Casatenovo, Merate und Valmadrera. Die Provinz wurde am 6. M\u00E4rz 1992 aus der Provinz Como ausgegliedert."@de ,
+		"La province de Lecco (pruincia de Lecch en dialecte lombard oriental) est une province italienne, dans la r\u00E9gion de Lombardie, peupl\u00E9e de plus de 340 000 habitants, et dont le chef-lieu est Lecco. Elle formait \u00E0 l'\u00E9poque romaine une partie de la regio Insubrica, partie orientale du pays des Celtes Insubres. Elle est frontali\u00E8re au nord et \u00E0 l'ouest de la province de C\u00F4me, \u00E0 l'est et au nord de la province de Sondrio, \u00E0 l'est de la province de Bergame et au sud de la province de Monza et de la Brianza."@fr ,
+		"\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0643\u0648 (\u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629: Provincia di Lecco)\u200F\u060C \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064A \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0645\u0646 \u0625\u0642\u0644\u064A\u0645 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627 \u0641\u064A \u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0639\u0627\u0635\u0645\u062A\u0647\u0627 \u0645\u062F\u064A\u0646\u0629 \u0644\u064A\u0643\u0648\u060C \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 327.000 \u0646\u0633\u0645\u0629 \u0648\u0645\u0633\u0627\u062D\u062A\u0647\u0627 816 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0645\u0631\u0628\u0639 \u0648\u0628\u0647\u0627 90 \u0645\u062F\u064A\u0646\u0629 \u0648\u0628\u0644\u062F\u0629 \u0648\u0642\u0631\u064A\u0629. \u064A\u062D\u062F\u0647\u0627 \u0634\u0645\u0627\u0644\u0627 \u0648\u063A\u0631\u0628\u0627 \u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0645\u0648\u060C \u062C\u0646\u0648\u0628\u0627 \u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0646\u0632\u0627 \u0648\u0628\u0631\u064A\u0627\u0646\u0633\u0627\u060C \u0648\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644 \u0648\u0627\u0644\u0634\u0631\u0642 \u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0648\u0646\u062F\u0631\u064A\u0648\u060C \u0648\u0645\u0646 \u0627\u0644\u0634\u0631\u0642 \u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064A\u0631\u063A\u0627\u0645\u0648."@ar ;
+	owl:differentFrom	dbr:Lecce ;
+	rdfs:seeAlso	dbr:Sister_cities ,
+		dbr:List_of_twin_towns ,
+		dbr:Italy ,
+		dbr:List_of_mayors_of_Lecco ;
+	foaf:name	"Lecco"@en ,
+		"Citt\u00E0 di Lecco"@en ;
+	foaf:homepage	<http://www.comune.lecco.it> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lecco	geo:lat	"45.849998"^^xsd:float ;
+	geo:long	"9.3999996"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco-4-16-04-2006.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco_dai_Piani_d\u0027Erna.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco_e_il_Monte_San_Martino.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco-Stemma.png> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco_Grigna.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Crixus_XXXX.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Resegone_da_lecco.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Lecco.gif> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Chiesa_Santi_Materno_e_Lucia.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/PKIERZKOWSKI_100626_Lecco.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco_lake.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Casalucia.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/View_of_Lake_Como_from_Lecco.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Villa_Manzoni.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Lecco_Arm_1.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Lucia_mondella.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Strada_su_su.jpg> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lecco	dcterms:subject	dbc:Cities_and_towns_in_Lombardy ,
+		dbc:Valsassina ,
+		dbc:Lecco ;
+	dbo:abstract	"Lecco est une ville de la province du m\u00EAme nom en Lombardie (Italie). La ville porte le titre de Ville des Alpes de l'Ann\u00E9e 2013."@fr ,
+		"\u041B\u0435\u0301\u043A\u043A\u043E (\u0438\u0442\u0430\u043B. Lecco [\u02C8lek\u02D0o, \u02C8l\u025B\u02D1k\u02D0o] , \u043C\u0435\u0441\u0442\u043D. Lecch [\u02C8l\u025Bk\u02D0], \u0438\u0441\u0442. \u043D\u0435\u043C. Leck) \u2014 \u043A\u043E\u043C\u043C\u0443\u043D\u0430 \u0432 \u0418\u0442\u0430\u043B\u0438\u0438, \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u0435\u0442\u0441\u044F \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438\u044F (\u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u041B\u0435\u043A\u043A\u043E), \u043D\u0430 \u044E\u0433\u0435 \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0433\u043E \u043B\u0438\u043C\u0430\u043D\u0430 \u043E\u0437\u0435\u0440\u0430 \u041A\u043E\u043C\u043E. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 47 319 \u0447\u0435\u043B\u043E\u0432\u0435\u043A (2008 \u0433.), \u043F\u043B\u043E\u0442\u043D\u043E\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u2014 1044,6 \u0447\u0435\u043B./\u043A\u043C\u00B2. \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 45 \u043A\u043C\u00B2. \u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441 \u2014 23900. \u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u044B\u0439 \u043A\u043E\u0434 \u2014 0341. \u041F\u043E\u043A\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044F\u043C\u0438 \u043A\u043E\u043C\u043C\u0443\u043D\u044B \u043F\u043E\u0447\u0438\u0442\u0430\u044E\u0442\u0441\u044F \u0441\u0432\u044F\u0442\u0438\u0442\u0435\u043B\u044C \u041D\u0438\u043A\u043E\u043B\u0430\u0439, \u043F\u0440\u0430\u0437\u0434\u043D\u043E\u0432\u0430\u043D\u0438\u0435 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F, \u0438 \u043F\u0435\u0440\u0432\u043E\u043C\u0443\u0447\u0435\u043D\u0438\u043A \u0421\u0442\u0435\u0444\u0430\u043D. \u0412 \u041B\u0435\u043A\u043A\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0434\u0438\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u043E\u0433\u043E \u0440\u043E\u043C\u0430\u043D\u0430 \u00AB\u041E\u0431\u0440\u0443\u0447\u0451\u043D\u043D\u044B\u0435\u00BB, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043D\u0430\u043F\u0438\u0441\u0430\u043B \u0443\u0440\u043E\u0436\u0435\u043D\u0435\u0446 \u0433\u043E\u0440\u043E\u0434\u0430 \u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u043E \u041C\u0430\u043D\u0434\u0437\u043E\u043D\u0438."@ru ,
+		"\uB808\uCF54\uB3C4(\uC774\uD0C8\uB9AC\uC544\uC5B4: Provincia di Lecco)\uC740 \uC774\uD0C8\uB9AC\uC544 \uBD81\uBD80 \uB86C\uBC14\uB974\uB514\uC544\uC8FC\uC758 \uB3C4\uC774\uB2E4. \uD604\uB3C4\uB294 \uC774\uB2E4. \uBA74\uC801\uC740 816 km2, \uC778\uAD6C\uB294 337,912(2009)\uC774\uB2E4."@ko ,
+		"Lecco (en llombard Lec) \u00E9s un municipi itali\u00E0, situat a la regi\u00F3 de la Llombardia i a la prov\u00EDncia de Lecco. L'any 2006 tenia 47.007 habitants.Si Como \u00E9s el costat que s'ha fet conegut pels turistes per la pres\u00E8ncia de grans hotels, la branca de Lecco \u00E9s hist\u00F2ricament la m\u00E9s important i amb l'entorn de llac i muntanya m\u00E9s bonic, estudiat durant molt de temps per Leonardo da Vinci, aqu\u00ED el reservat. i vil\u00B7les ocultes dels grans industrials i nobles italians, aix\u00ED com dels nobles de l'Antiga Roma, inclosa la Villa Commedia de Plini el Jove al poble secret de Lierna, lloc de fundaci\u00F3 de l'Ordre Cavaller de la fam\u00EDlia reial italiana de Savoia."@ca ,
+		"\u840A\u79D1\u7701\uFF08\u7FA9\u5927\u5229\u8A9E\uFF1AProvincia di Lecco\uFF09\u662F\u610F\u5927\u5229\u4F26\u5DF4\u7B2C\u5927\u533A\u7684\u4E00\u500B\u7701\u3002\u9762\u7A4D805.61\u5E73\u65B9\u516C\u91CC\uFF0C2017\u5E74\u4EBA\u53E3337,211\u4EBA\u3002\u9996\u5E9C\u840A\u79D1\u3002\u4E0B\u520687\u5E02\u93AE\u3002 \u8BE5\u7701\u6700\u9AD8\u70B9\u4E3A\u6D77\u62D42609\u7C73\u7684\u83B1\u683C\u519C\u5C71\u3002"@zh ,
+		"\u30EC\u30C3\u30B3\u770C\uFF08\u30EC\u30C3\u30B3\u3051\u3093\u3001\u30A4\u30BF\u30EA\u30A2\u8A9E: Provincia di Lecco\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u5171\u548C\u56FD\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3\u30A2\u5DDE\u306B\u5C5E\u3059\u308B\u770C\u306E\u4E00\u3064\u3002\u770C\u90FD\u306F\u30EC\u30C3\u30B3\u3002"@ja ,
+		"\u840A\u79D1\uFF08Lecco\uFF09\uFF0C\u4F4D\u4E8E\u7C73\u5170\u4EE5\u531750\u516C\u91CC\uFF0C\u662F\u610F\u5927\u5229\u4F26\u5DF4\u7B2C\u653F\u533A\u7684\u4E00\u4E2A\u57CE\u5E02\uFF0C\u4E3A\u83B1\u79D1\u7701\u7684\u9996\u5E9C\u30022017\u5E74\u65F6\u4EBA\u53E3\u4E3A48,366\u4EBA\uFF0C\u4EBA\u53E3\u5BC6\u5EA6\u4E3A1,100\u4EBA/\u5E73\u65B9\u516C\u91CC\u3002"@zh ,
+		"\u03A4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF (\u03B9\u03C4\u03B1\u03BB\u03B9\u03BA\u03AC: Lecco) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03CC\u03BB\u03B7 \u03BA\u03B1\u03B9 \u03B4\u03AE\u03BC\u03BF\u03C2 \u03C3\u03C4\u03B7 \u039B\u03BF\u03BC\u03B2\u03B1\u03C1\u03B4\u03AF\u03B1 \u03C3\u03C4\u03B7 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1 \u0399\u03C4\u03B1\u03BB\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03AD\u03B4\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03BF\u03BC\u03CE\u03BD\u03C5\u03BC\u03B7\u03C2 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1\u03C2. \u039F \u03C0\u03BB\u03B7\u03B8\u03C5\u03C3\u03BC\u03CC\u03C2 \u03C4\u03BF\u03C5 \u03C4\u03BF 2019 \u03AE\u03C4\u03B1\u03BD 48.555 \u03BA\u03AC\u03C4\u03BF\u03B9\u03BA\u03BF\u03B9. \u0395\u03AF\u03BD\u03B1\u03B9 \u03BA\u03C4\u03B9\u03C3\u03BC\u03AD\u03BD\u03B7 \u03C3\u03C4\u03BF \u03BD\u03CC\u03C4\u03B9\u03BF \u03AC\u03BA\u03C1\u03BF \u03C4\u03BF\u03C5 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03BF\u03CD \u03B2\u03C1\u03B1\u03C7\u03AF\u03BF\u03BD\u03B1 \u03C4\u03B7\u03C2 \u03BB\u03AF\u03BC\u03BD\u03B7\u03C2 \u039A\u03CC\u03BC\u03BF, \u03C3\u03C4\u03BF \u03C3\u03B7\u03BC\u03B5\u03AF\u03BF \u03CC\u03C0\u03BF\u03C5 \u03BF \u03C0\u03BF\u03C4\u03B1\u03BC\u03CC\u03C2 \u0391\u03B4\u03BF\u03CD\u03B1\u03C2 \u03B5\u03BA\u03C1\u03AD\u03B5\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7 \u03BB\u03AF\u03BC\u03BD\u03B7. \u03A0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03B2\u03BF\u03C5\u03BD\u03AC, \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C4\u03C9\u03BD \u0386\u03BB\u03C0\u03B5\u03C9\u03BD, \u03BA\u03B1\u03B9 \u03C3\u03C5\u03B3\u03BA\u03B5\u03BA\u03C1\u03B9\u03BC\u03AD\u03BD\u03B1 \u03C4\u03B1 \u0393\u03BA\u03C1\u03AF\u03BD\u03B9\u03BF \u03BA\u03B1\u03B9 \u03A1\u03B5\u03B6\u03B5\u03B3\u03BA\u03CC\u03BD\u03B5. \u0395\u03AC\u03BD \u03B7 \u03C0\u03BB\u03B5\u03C5\u03C1\u03AC \u03C4\u03BF\u03C5 Como \u03C4\u03B7\u03C2 \u03BB\u03AF\u03BC\u03BD\u03B7\u03C2 Como \u03AD\u03C7\u03B5\u03B9 \u03B3\u03AF\u03BD\u03B5\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03AE \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C4\u03BF\u03C5\u03C1\u03AF\u03C3\u03C4\u03B5\u03C2 \u03BB\u03CC\u03B3\u03C9 \u03C4\u03B7\u03C2 \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1\u03C2 \u03BC\u03B5\u03B3\u03AC\u03BB\u03C9\u03BD \u03BE\u03B5\u03BD\u03BF\u03B4\u03BF\u03C7\u03B5\u03AF\u03C9\u03BD, \u03C4\u03BF \u03C5\u03C0\u03BF\u03BA\u03B1\u03C4\u03AC\u03C3\u03C4\u03B7\u03BC\u03B1 Lecco \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B9\u03C3\u03C4\u03BF\u03C1\u03B9\u03BA\u03AC \u03C4\u03BF \u03C0\u03B9\u03BF \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC \u03BA\u03B1\u03B9 \u03B1\u03C0\u03BF\u03BA\u03BB\u03B5\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC \u03BA\u03B1\u03B9 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03C0\u03B9\u03BF \u03CC\u03BC\u03BF\u03C1\u03C6\u03B7 \u03BB\u03AF\u03BC\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B2\u03BF\u03C5\u03BD\u03CC, \u03C0\u03BF\u03C5 \u03BC\u03B5\u03BB\u03B5\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B3\u03B9\u03B1 \u03C0\u03BF\u03BB\u03CD \u03BA\u03B1\u03B9\u03C1\u03CC \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD L\u00E9onard de Vinci , \u03B5\u03B4\u03CE \u03BF\u03B9 \u03B5\u03BC\u03C0\u03B9\u03C3\u03C4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AD\u03C2 \u03BA\u03B1\u03B9 \u03BA\u03C1\u03C5\u03BC\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B2\u03AF\u03BB\u03B5\u03C2 \u03C4\u03C9\u03BD \u03BC\u03B5\u03B3\u03AC\u03BB\u03C9\u03BD \u0399\u03C4\u03B1\u03BB\u03CE\u03BD \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03AC\u03BD\u03C9\u03BD \u03BA\u03B1\u03B9 \u03B5\u03C5\u03B3\u03B5\u03BD\u03CE\u03BD, \u03BA\u03B1\u03B8\u03CE\u03C2 \u03BA\u03B1\u03B9 \u03BF\u03B9 \u03B5\u03C5\u03B3\u03B5\u03BD\u03B5\u03AF\u03C2 \u03C4\u03B7\u03C2 \u03B1\u03C1\u03C7\u03B1\u03AF\u03B1\u03C2 \u03A1\u03CE\u03BC\u03B7\u03C2, \u03C3\u03C5\u03BC\u03C0\u03B5\u03C1\u03B9\u03BB\u03B1\u03BC\u03B2\u03B1\u03BD\u03BF\u03BC\u03AD\u03BD\u03B7\u03C2 \u03C4\u03B7\u03C2 Villa Comedia de Plinio \u03BF \u03BD\u03B5\u03B1\u03C1\u03CC\u03C2 \u03C3\u03C4\u03BF \u03BC\u03C5\u03C3\u03C4\u03B9\u03BA\u03CC \u03C7\u03C9\u03C1\u03B9\u03CC Liena, \u03C4\u03BF \u03B8\u03B5\u03BC\u03AD\u03BB\u03B9\u03BF \u03C4\u03BF\u03C5 \u03A4\u03AC\u03B3\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03C9\u03BD \u0399\u03C0\u03C0\u03BF\u03C4\u03CE\u03BD \u03C4\u03BF\u03C5 \u0399\u03C4\u03B1\u03BB\u03B9\u03BA\u03AE \u03B2\u03B1\u03C3\u03B9\u03BB\u03B9\u03BA\u03AE \u03BF\u03B9\u03BA\u03BF\u03B3\u03AD\u03BD\u03B5\u03B9\u03B1 \u03B1\u03C0\u03CC \u03C4\u03BF Savoy. \u03A4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF \u03AE\u03C4\u03B1\u03BD \u03AD\u03B4\u03C1\u03B1 \u03BC\u03B1\u03C1\u03BA\u03B9\u03B6\u03AC\u03C4\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03C4\u03BF\u03BD 11\u03BF \u03B1\u03B9\u03CE\u03BD\u03B1 \u03C0\u03AD\u03C1\u03B1\u03C3\u03B5 \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03BF\u03C7\u03AE \u03C4\u03BF\u03C5 \u039A\u03CC\u03BC\u03BF \u03BA\u03B1\u03B9 \u03AD\u03C0\u03B5\u03B9\u03C4\u03B1 \u03C3\u03C4\u03BF \u0394\u03BF\u03C5\u03BA\u03AC\u03C4\u03BF \u03C4\u03BF\u03C5 \u039C\u03B9\u03BB\u03AC\u03BD\u03BF\u03C5. \u039F\u03B9 \u0392\u03B9\u03C3\u03BA\u03CC\u03BD\u03C4\u03B9 \u03BF\u03C7\u03CD\u03C1\u03C9\u03C3\u03B1\u03BD \u03C4\u03B7\u03BD \u03C0\u03CC\u03BB\u03B7 \u03C4\u03BF\u03BD 14\u03BF \u03B1\u03B9\u03CE\u03BD\u03B1. \u0395\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C4\u03BF 1336-1338 \u03BA\u03C4\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5 \u03B7 \u03A0\u03CC\u03BD\u03C4\u03B5 \u0393\u03C1\u03AC\u03BD\u03C4\u03B5 \u03B5\u03C0\u03AF \u03C4\u03BF\u03C5 \u0391\u03B4\u03BF\u03CD\u03B1, \u03B7 \u03BF\u03C0\u03BF\u03AF\u03B1 \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03B5\u03AF\u03C4\u03B1\u03B9 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C3\u03AE\u03BC\u03B5\u03C1\u03B1. \u03A4\u03BF 1647 \u03AD\u03B3\u03B9\u03BD\u03B5 \u03AD\u03B4\u03C1\u03B1 \u03BA\u03CC\u03BC\u03B7. \u039C\u03B5\u03C4\u03AC \u03C4\u03B7 \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03B1\u03BD\u03B9\u03BA\u03AE \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7 \u03C4\u03BF\u03C5 18\u03BF\u03C5 \u03B1\u03B9\u03CE\u03BD\u03B1, \u03C4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF \u03B3\u03BD\u03CE\u03C1\u03B9\u03C3\u03B5 \u03B3\u03C1\u03AE\u03B3\u03BF\u03C1\u03B7 \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7. \u03A3\u03AE\u03BC\u03B5\u03C1\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03B1\u03BD\u03B9\u03BA\u03AC \u03BA\u03AD\u03BD\u03C4\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1\u03C2 \u0399\u03C4\u03B1\u03BB\u03AF\u03B1\u03C2, \u03BC\u03B5 \u03B5\u03BE\u03B5\u03B9\u03B4\u03AF\u03BA\u03B5\u03C5\u03C3\u03B7 \u03C3\u03C4\u03B7 \u03BC\u03B5\u03C4\u03B1\u03BB\u03BB\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1, \u03C4\u03B7 \u03BC\u03B7\u03C7\u03B1\u03BD\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1, \u03C4\u03B1 \u03C5\u03C6\u03AC\u03C3\u03BC\u03B1\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03BA\u03BF\u03BD\u03C3\u03B5\u03C1\u03B2\u03BF\u03C0\u03BF\u03B9\u03AF\u03B1, \u03BA\u03B1\u03B9 \u03C4\u03BF\u03C5\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC\u03C2 \u03C0\u03C1\u03BF\u03BF\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2. \u0395\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C3\u03C4\u03B7\u03BD \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AE \u03C4\u03BF\u03C5 \u039B\u03AD\u03BA\u03BA\u03BF \u03C0\u03B1\u03C1\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03C4\u03BF \u03C4\u03C5\u03C1\u03AF \u03B3\u03BA\u03BF\u03C1\u03B3\u03BA\u03BF\u03BD\u03C4\u03B6\u03CC\u03BB\u03B1. \u0391\u03C0\u03CC \u03C4\u03B1 \u03BA\u03C4\u03AF\u03C1\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03C0\u03CC\u03BB\u03B7\u03C2 \u03BE\u03B5\u03C7\u03C9\u03C1\u03AF\u03B6\u03BF\u03C5\u03BD \u03C4\u03BF \u03BD\u03B5\u03BF\u03BA\u03BB\u03B1\u03C3\u03B9\u03BA\u03CC \u03A4\u03B5\u03AC\u03C4\u03C1\u03BF \u03BD\u03C4\u03AD\u03BB\u03B1 \u03A3\u03BF\u03C3\u03B9\u03B5\u03C4\u03AC, \u03C3\u03C4\u03B7\u03BD \u03A0\u03B9\u03AC\u03C4\u03C3\u03B1 \u0393\u03BA\u03B1\u03C1\u03B9\u03BC\u03C0\u03AC\u03BB\u03B9, \u03BA\u03B1\u03B9 \u03BF\u03B9 \u03B1\u03C8\u03AF\u03B4\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03A0\u03B9\u03AC\u03C4\u03C3\u03B1 20\u03AE\u03C2 \u03A3\u03B5\u03C0\u03C4\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5, \u03CC\u03C0\u03BF\u03C5 \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03BF \u03A4\u03CC\u03C1\u03C1\u03B5 \u0392\u03B9\u03C3\u03BA\u03BF\u03BD\u03C4\u03AD\u03B1, \u03BA\u03B1\u03C4\u03AC\u03BB\u03BF\u03B9\u03C0\u03BF \u03C4\u03C9\u03BD \u03BC\u03B5\u03C3\u03B1\u03B9\u03C9\u03BD\u03B9\u03BA\u03CE\u03BD \u03C4\u03B5\u03B9\u03C7\u03CE\u03BD \u03C4\u03B7\u03C2 \u03C0\u03CC\u03BB\u03B7\u03C2. \u039F \u03C0\u03CD\u03C1\u03B3\u03BF\u03C2 \u03C3\u03C4\u03B5\u03B3\u03AC\u03B6\u03B5\u03B9 \u03C4\u03BF \u03B9\u03C3\u03C4\u03BF\u03C1\u03B9\u03BA\u03CC \u03BC\u03BF\u03C5\u03C3\u03B5\u03AF\u03BF \u03C4\u03B7\u03C2 \u03C0\u03CC\u03BB\u03B7\u03C2. \u039F \u03BA\u03B1\u03B8\u03B5\u03B4\u03C1\u03B9\u03BA\u03CC\u03C2 \u03BD\u03B1\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03C0\u03CC\u03BB\u03B7\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03C6\u03B9\u03B5\u03C1\u03C9\u03BC\u03AD\u03BD\u03BF\u03C2 \u03C3\u03C4\u03BF\u03BD \u0386\u03B3\u03B9\u03BF \u039D\u03B9\u03BA\u03CC\u03BB\u03B1\u03BF. \u03A4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u03C3\u03BA\u03B7\u03BD\u03B9\u03BA\u03CC \u03C3\u03C4\u03BF \u03BF\u03C0\u03BF\u03AF\u03BF \u03B4\u03B9\u03B1\u03B4\u03C1\u03B1\u03BC\u03B1\u03C4\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C4\u03BF \u03BC\u03C5\u03B8\u03B9\u03C3\u03C4\u03CC\u03C1\u03B7\u03BC\u03B1 \u039F\u03B9 \u03B1\u03C1\u03C1\u03B1\u03B2\u03C9\u03BD\u03B9\u03B1\u03C3\u03BC\u03AD\u03BD\u03BF\u03B9 (1825-1827) \u03C4\u03BF\u03C5 \u0391\u03BB\u03B5\u03C3\u03C3\u03AC\u03BD\u03C4\u03C1\u03BF \u039C\u03B1\u03BD\u03C4\u03C3\u03CC\u03BD\u03B9."@el ,
+		"Lecco [Leko] estas komunumo de Italio, situanta \u0109e lago de Como kaj apud la rivero de Adda. \u011Ci apartenas al la regiono Lombardio kaj estas la \u0109efurbo de la samnoma provinco Lecco. Fine de 2018 en la komunumo vivis 48 177 lo\u011Dantoj. Kristana patrono estas la sankta Nikolao, kies memortago sekve estas la komunuma festotago. Najbaras la komunumoj Abbadia Lariana, Ballabio, Erve, Galbiate, Garlate, Malgrate, Mandello del Lario, Morterone, Pescate, Valmadrera kaj Vercurago. La komunumo estas konata esti unu el la lokoj de la filmo la gefian\u0109oj de Alessandro Manzoni. En 2013 Lecco honori\u011Dis per la titolo Alpa urbo de la jaro. Acquate estas kvartalo (frazione) de la urbo Lecco."@eo ,
+		"La provincia di Lecco \u00E8 una provincia italiana della Lombardia di 332 435 abitanti, il cui capoluogo \u00E8 la citt\u00E0 di Lecco. \u00C8 stata istituita dallo scorporo della porzione orientale della provincia di Como (84 comuni) e 6 comuni appartenenti alla provincia di Bergamo (totale di 90 comuni) con decreto del presidente della Repubblica 6 marzo 1992, n. 250. Le elezioni per la nomina del primo presidente della provincia di Lecco si sono tenute il 23 aprile (primo turno) e il 7 maggio 1995 (ballottaggio). La proclamazione del presidente, l'avvocato Mario Anghileri, \u00E8 avvenuta il 9 maggio seguente. A partire dal 2013 si sono susseguiti 4 referendum consultivi per accorpare alcuni comuni e 1 per cambiare provincia, attestando il numero totale dei comuni a 84. Dal 2007 \u00E8 compresa all'interno della regio Insubrica, di cui rappresenta l'appendice orientale, e della regione storica insubre.Formata da 84 comuni che occupano un'estensione di 805,61 km\u00B2 \u00E8 la sesta provincia pi\u00F9 piccola d'Italia e undicesima per densit\u00E0 di popolazione. Confina a nord e a ovest con la provincia di Como, a est e a nord con la provincia di Sondrio, a est con la provincia di Bergamo e a sud con la provincia di Monza e Brianza."@it ,
+		"La province de Lecco (pruincia de Lecch en dialecte lombard oriental) est une province italienne, dans la r\u00E9gion de Lombardie, peupl\u00E9e de plus de 340 000 habitants, et dont le chef-lieu est Lecco. Elle formait \u00E0 l'\u00E9poque romaine une partie de la regio Insubrica, partie orientale du pays des Celtes Insubres. Elle est frontali\u00E8re au nord et \u00E0 l'ouest de la province de C\u00F4me, \u00E0 l'est et au nord de la province de Sondrio, \u00E0 l'est de la province de Bergame et au sud de la province de Monza et de la Brianza."@fr ,
+		"A prov\u00EDncia de Lecco \u00E9 uma prov\u00EDncia italiana da regi\u00E3o da Lombardia com cerca de 311 452 habitantes, densidade de 381 hab/km\u00B2. Est\u00E1 dividida em 90 comunas, sendo a capital Lecco. Faz fronteira a leste com a prov\u00EDncia de Sondrio e com a prov\u00EDncia de B\u00E9rgamo, a sul com a prov\u00EDncia de Monza e Brianza e a oeste e a norte com a prov\u00EDncia de Como. Foi institu\u00EDda em 1992 com comunas desanexadas \u00E0s prov\u00EDncias de Como e de B\u00E9rgamo."@pt ,
+		"Lecco \u00E4r en stad och kommun i regionen Lombardiet i norra Italien. Staden \u00E4r administrativ huvudort i provinsen med samma namn. Den ligger vid den s\u00F6dra \u00E4nden av Comosj\u00F6ns \u00F6stra arm, d\u00E4r floden Adda har sitt utfl\u00F6de. Kommunen hade 48 333 inv\u00E5nare (2018) och gr\u00E4nsar till kommunerna Abbadia Lariana, Ballabio, Brumano, Erve, Galbiate, Garlate, Malgrate, Mandello del Lario, Morterone, Pescate, Valmadrera och Vercurago."@sv ,
+		"\u041B\u0435\u043A\u043A\u043E (\u0456\u0442\u0430\u043B. Lecco) \u2014 \u043C\u0443\u043D\u0456\u0446\u0438\u043F\u0430\u043B\u0456\u0442\u0435\u0442 \u0432 \u0406\u0442\u0430\u043B\u0456\u0457, \u0443 \u0440\u0435\u0433\u0456\u043E\u043D\u0456 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0456\u044F, \u0441\u0442\u043E\u043B\u0438\u0446\u044F \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u041B\u0435\u043A\u043A\u043E. \u041B\u0435\u043A\u043A\u043E \u0440\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0435 \u043D\u0430 \u0432\u0456\u0434\u0441\u0442\u0430\u043D\u0456 \u0431\u043B\u0438\u0437\u044C\u043A\u043E 510 \u043A\u043C \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447\u043D\u0438\u0439 \u0437\u0430\u0445\u0456\u0434 \u0432\u0456\u0434 \u0420\u0438\u043C\u0430, 50 \u043A\u043C \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447 \u0432\u0456\u0434 \u041C\u0456\u043B\u0430\u043D\u0430. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u2014 48 141 \u043E\u0441\u043E\u0431\u0430 (2014).\u0429\u043E\u0440\u0456\u0447\u043D\u0438\u0439 \u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043B\u044C \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0454\u0442\u044C\u0441\u044F 6 \u0433\u0440\u0443\u0434\u043D\u044F. \u041F\u043E\u043A\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C \u2014 San Nicol\u00F2."@uk ,
+		"Lecco es una ciudad italiana, capital de la provincia hom\u00F3nima, perteneciente a la regi\u00F3n de Lombard\u00EDa. Ubicada junto al lago Como, contaba con una poblaci\u00F3n de 47 376 habitantes en 2021. Si Como es el lado que se ha hecho conocido por los turistas debido a la presencia de grandes hoteles, la sucursal de Lecco es hist\u00F3ricamente la m\u00E1s importante y con el paisaje lacustre y monta\u00F1oso m\u00E1s hermoso, estudiado durante mucho tiempo por Leonardo da Vinci, aqu\u00ED el reservado y villas escondidas de los grandes industriales y nobles italianos, as\u00ED como de los nobles de la Antigua Roma, incluida la Villa Comedia de Plinio el Joven en el pueblo secreto de Lierna, el lugar de fundaci\u00F3n de la Orden de Caballer\u00EDa de la familia real italiana de Saboya."@es ,
+		"La Provinco Lecco - itale provincia de Lecco - estas provinco en regiono Lombardio, en la norda Italio. Fine de 2020 en la teritorio vivis 333 344 lo\u011Dantoj. \u011Ci estis efektivigata en 1992, kiam iom da komunumoj estis forigita de la provincoj de Como kaj Bergamo kaj nova teritoria disdivido estis realigata. La provinco de Lodi, anka\u016D en Lombardio, estis efektivigata dum la sama jaro. La provinco Lecco samlimas la provincon Como norde kaj okcidente, la provincon Monza kaj Brianco sude, la provincon Bergamo oriente, kaj la provincon Sondrio oriente kaj norde."@eo ,
+		"Lecco je italsk\u00E9 m\u011Bsto v oblasti Lombardie, hlavn\u00ED m\u011Bsto stejnojmenn\u00E9 provincie. V roce 2012 zde \u017Eilo 47 240 obyvatel."@cs ,
+		"\u30EC\u30C3\u30B3\uFF08\u30A4\u30BF\u30EA\u30A2\u8A9E: Lecco\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u5171\u548C\u56FD\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3\u30A2\u5DDE\u306B\u3042\u308B\u90FD\u5E02\u3067\u3042\u308A\u3001\u305D\u306E\u5468\u8FBA\u5730\u57DF\u3092\u542B\u3080\u4EBA\u53E3\u7D0447,400\u4EBA\u306E\u57FA\u790E\u81EA\u6CBB\u4F53\uFF08\u30B3\u30E0\u30FC\u30CD\uFF09\u3002\u30EC\u30C3\u30B3\u770C\u306E\u770C\u90FD\u3067\u3042\u308B\u3002 \u30B3\u30E2\u6E56\u306E\u5357\u6771\u7AEF\u306B\u4F4D\u7F6E\u3059\u308B\u3002"@ja ,
+		"Lecco merupakan nama kota di Region Lombardia, Provinsi Lecco, Italia. Pada tahun 2004, kota ini memiliki jumlah penduduk sebanyak 46.477 jiwa dan memiliki luas wilayah 45 km\u00B2. Jika sisi como Danau Como telah dikenal oleh wisatawan karena kehadiran hotel -hotel besar, cabang Lecco secara historis adalah yang paling penting dan eksklusif dan dengan danau yang paling indah dan pengaturan gunung, dipelajari untuk waktu yang lama oleh L\u00E9onard de Vinci , di sini vila -vila rahasia dan tersembunyi dari para industrialis dan bangsawan Italia yang agung, serta para bangsawan Roma kuno, termasuk Villa Comedia de Plinio, pemuda di desa rahasia Liena, fondasi ordo para ksatria dari para ksatria Keluarga Kerajaan Italia dari Savoy."@in ,
+		"Lecco is een van de provincies in de Italiaanse regio Lombardije. De hoofdstad is de stad Lecco. De offici\u00EBle afkorting is LC. De provincie telt ongeveer 311.000 inwoners op een oppervlakte van 816 km\u00B2. Lecco is ontstaan in 1992 als afsplitsing van de provincies Bergamo en Como. Tot het grondgebied hoort de gehele oostoever van het Comomeer en deels het gebied ten westen van de zuidoostflank van het meer. De provincie is grotendeels bergachtig met als hoogste top de Grigna met 2410 meter, behorend tot de Lombardische Alpen. Overige plaatsen van enig belang zijn Colico, Bellano en Merate. Lecco grenst aan de provincies Como, Sondrio, Monza e Brianza en Bergamo."@nl ,
+		"Lecco \u00E4r en provins i regionen Lombardiet i Italien. Lecco \u00E4r huvudort i provinsen. Provinsen bildades 1992 med 84 kommuner fr\u00E5n provinsen Como och 6 kommuner fr\u00E5n provinsen Bergamo varav en Torre de' Busi 2017 \u00E5tergick till Bergamo."@sv ,
+		"\u041B\u0435\u043A\u043A\u043E (\u0438\u0442\u0430\u043B. Provincia di Lecco, \u043B\u043E\u043C\u0431. Pruvincia de Lecch) \u2014 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u0432 \u0418\u0442\u0430\u043B\u0438\u0438, \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438\u044F. \u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u0438\u043C\u0435\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 816 \u043A\u043C\u00B2 \u0438 \u043F\u043E\u0434\u0435\u043B\u0435\u043D\u0430 \u043D\u0430 90 \u043A\u043E\u043C\u043C\u0443\u043D. \u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0430 \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442\u0441\u043A\u0438\u043C \u0434\u0435\u043A\u0440\u0435\u0442\u043E\u043C \u043E\u0442 6 \u043C\u0430\u0440\u0442\u0430 1992 \u0433\u043E\u0434\u0430 \u2116 250. \u0412\u044B\u0431\u043E\u0440\u044B \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442\u0430 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0438\u0441\u044C \u0432\u0435\u0441\u043D\u043E\u0439 1995 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u043C \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442\u043E\u043C \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0441\u0442\u0430\u043B \u041C\u0430\u0440\u0438\u043E \u0410\u043D\u0433\u0438\u043B\u044C\u0435\u0440\u0438, \u0432\u0441\u0442\u0443\u043F\u0438\u0432\u0448\u0438\u0439 \u0432 \u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C 9 \u043C\u0430\u044F 1995 \u0433\u043E\u0434\u0430."@ru ,
+		"Is cathair i r\u00E9igi\u00FAn An Lombaird san Iod\u00E1il \u00E9 Lecco. Bh\u00ED 48,114 duine ina gc\u00F3na\u00ED i Lecco i 2010."@ga ,
+		"Lecco (Provincia di Lecco) je provincie v italsk\u00E9 oblasti Lombardie. Soused\u00ED na v\u00FDchod\u011B s provinciemi Sondrio a Bergamo, na jihu s provinci\u00ED Milano a na z\u00E1pad\u011B a severu s provinci\u00ED Como. Provincie vznikla v roce 1992 odtr\u017Een\u00EDm obc\u00ED od provinci\u00ED Como a Bergamo."@cs ,
+		"Die Provinz Lecco ist eine italienische Provinz im Norden der Region Lombardei. Sie hat 337.087 Einwohner (Stand 31. Dezember 2019) in 84 Gemeinden auf einer Fl\u00E4che von 816,17 km\u00B2. Zu ihren gr\u00F6\u00DFten Gemeinden z\u00E4hlen Calolziocorte, Casatenovo, Merate und Valmadrera. Die Provinz wurde am 6. M\u00E4rz 1992 aus der Provinz Como ausgegliedert."@de ,
+		"\u0397 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u039B\u03AD\u03BA\u03BA\u03BF (\u03B9\u03C4\u03B1\u03BB\u03B9\u03BA\u03AC: Provincia di Lecco) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C3\u03C4\u03B7\u03BD \u03C0\u03B5\u03C1\u03B9\u03C6\u03AD\u03C1\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u039B\u03BF\u03BC\u03B2\u03B1\u03C1\u03B4\u03AF\u03B1\u03C2 \u03C3\u03C4\u03B7\u03BD \u0399\u03C4\u03B1\u03BB\u03AF\u03B1. \u0397 \u03AD\u03BA\u03C4\u03B1\u03C3\u03AE \u03C4\u03B7\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 816 \u03C4.\u03C7\u03BB\u03BC. \u03BA\u03B1\u03B9 \u03BF \u03C0\u03BB\u03B7\u03B8\u03C5\u03C3\u03BC\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03B1\u03BD\u03AD\u03C1\u03C7\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 328.057 (2008) \u03BA\u03B1\u03C4\u03BF\u03AF\u03BA\u03BF\u03C5\u03C2. \u0388\u03B4\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u039B\u03AD\u03BA\u03BA\u03BF (Lecco). \u03A3\u03C5\u03BD\u03BF\u03BB\u03B9\u03BA\u03AC, \u03B7 \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03B1\u03C1\u03B9\u03B8\u03BC\u03B5\u03AF 90 \u03B4\u03AE\u03BC\u03BF\u03C5\u03C2. \u03A3\u03C5\u03BD\u03BF\u03C1\u03B5\u03CD\u03B5\u03B9 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1 \u03BA\u03B1\u03B9 \u03B4\u03C5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u039A\u03CC\u03BC\u03BF, \u03BD\u03CC\u03C4\u03B9\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03B7\u03C2 \u039C\u03CC\u03BD\u03C4\u03C3\u03B1-\u039C\u03C0\u03C1\u03B9\u03AC\u03BD\u03C4\u03C3\u03B1, \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B2\u03CC\u03C1\u03B5\u03B9\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03A3\u03CC\u03BD\u03C4\u03C1\u03B9\u03BF \u03BA\u03B1\u03B9 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5 \u039C\u03C0\u03AD\u03C1\u03B3\u03BA\u03B1\u03BC\u03BF."@el ,
+		"Lecco (US: /\u02C8l\u025Bko\u028A, \u02C8le\u026Ako\u028A/, Italian: [\u02C8lekko], locally [\u02C8l\u025Bkko]; Lecchese: L\u00E8cch [\u02C8l\u025Bk]) is a city of 48,131 inhabitants in Lombardy, northern Italy, 50 kilometres (31 mi) north of Milan. It lies at the end of the south-eastern branch of Lake Como (the branch is named Branch of Lecco / Ramo di Lecco). The Bergamo Alps rise to the north and east, cut through by the Valsassina of which Lecco marks the southern end. The lake narrows to form the river Adda, so bridges were built to improve road communications with Como and Milan. There are four bridges crossing the river Adda in Lecco: the Azzone Visconti Bridge (1336\u20131338), the Kennedy Bridge (1956), the Alessandro Manzoni Bridge (1985), and a railroad bridge. Lecco was also Alpine Town of the Year in 2013. Elevated to province by decree of the President of the Republic of March 6, 1992, Lecco obtained the title of city on June 22, 1848. Known for being the place where the writer Alessandro Manzoni set \"The Betrothed\", the city is located in one of the vertexes of the Larian Triangle. It overlooks the eastern branch of Lake Como and is included in the Orobic Prealps, between the Grigne mountain chain and the Resegone. As strategic crossroads for Valtellina, Lecco assumed increasing importance during the Middle Ages when it was annexed to the Duchy of Milan following the Peace of Constance. During the second half of the 19th century, under the Austrian dominion, the city went through a particularly flourishing period during which palaces and arcades in neoclassical style were constructed. After the Unity of Italy, Lecco established itself as one of the most important industrial centers of the nation thanks to the development of the steel industries, already active in the 12th century. For this reason, Lecco is also called \"the Iron city\". Lecco has a population of 48131 inhabitants."@en ,
+		"Lecco is een stad in Lombardije, Itali\u00EB gelegen 50 kilometer ten noordoosten van Milaan. Het is de hoofdstad van de gelijknamige provincie. De stad telt ruim 48.000 inwoners (30-09-2017). De stad is gelegen aan de zuidoostelijke punt van het Comomeer, daar waar de rivier de Adda het meer verlaat. Lecco is omgeven door de bergen Resegone, Monte Barro en San Martino. Drie bruggen verbinden Lecco met de westoever van de Adda. De stad bestond reeds in de Romeinse tijd, al werd ze pas echt van belang in de 15e eeuw, toen ze, behorend tot het hertogdom Milaan, op de grens lag met de republiek Veneti\u00EB en door haar oorspronkelijk Longobardische fort van strategisch defensief belang was voor Milaan. Lecco en omliggend gebied behoorden van de 18e tot halverwege de 19e eeuw bij Oostenrijk, tot het ingelijfd werd bij het nieuwe koninkrijk Itali\u00EB. Lecco kent een succesvolle ijzerindustrie, die lange tijd de belangrijkste bron van inkomsten is geweest voor de stad. Van 2011 tot 2013 lag in Lecco de aankomst van de gekende wielerwedstrijd Ronde van Lombardije."@nl ,
+		"\u041F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u044F \u041B\u0435\u043A\u043A\u043E (\u0456\u0442\u0430\u043B. Provincia di Lecco) \u2014 \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u044F \u0432 \u0406\u0442\u0430\u043B\u0456\u0457, \u0443 \u0440\u0435\u0433\u0456\u043E\u043D\u0456 \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0456\u044F. \u041F\u043B\u043E\u0449\u0430 \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u2014 816 \u043A\u043C\u00B2, \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u2014 341 751 \u043E\u0441\u0456\u0431. \u0421\u0442\u043E\u043B\u0438\u0446\u0435\u044E \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u0454 \u043C\u0456\u0441\u0442\u043E \u041B\u0435\u043A\u043A\u043E."@uk ,
+		"\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0643\u0648 (\u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629: Provincia di Lecco)\u200F\u060C \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064A \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0645\u0646 \u0625\u0642\u0644\u064A\u0645 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627 \u0641\u064A \u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0639\u0627\u0635\u0645\u062A\u0647\u0627 \u0645\u062F\u064A\u0646\u0629 \u0644\u064A\u0643\u0648\u060C \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 327.000 \u0646\u0633\u0645\u0629 \u0648\u0645\u0633\u0627\u062D\u062A\u0647\u0627 816 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0645\u0631\u0628\u0639 \u0648\u0628\u0647\u0627 90 \u0645\u062F\u064A\u0646\u0629 \u0648\u0628\u0644\u062F\u0629 \u0648\u0642\u0631\u064A\u0629. \u064A\u062D\u062F\u0647\u0627 \u0634\u0645\u0627\u0644\u0627 \u0648\u063A\u0631\u0628\u0627 \u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0645\u0648\u060C \u062C\u0646\u0648\u0628\u0627 \u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0646\u0632\u0627 \u0648\u0628\u0631\u064A\u0627\u0646\u0633\u0627\u060C \u0648\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644 \u0648\u0627\u0644\u0634\u0631\u0642 \u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0648\u0646\u062F\u0631\u064A\u0648\u060C \u0648\u0645\u0646 \u0627\u0644\u0634\u0631\u0642 \u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064A\u0631\u063A\u0627\u0645\u0648."@ar ,
+		"Lecco (bahasa Italia: Provincia di Lecco) adalah sebuah provinsi di regione Lombardia di Italia. Ibu kotanya berada di kota Lecco. Luasnya Provinsi Lecco 816 km\u00B2, dan populasinya sebesar 337.912 (2009). Ada 90 komune di provinsi ini."@in ,
+		"\u0644\u064A\u0643\u0651\u0648 (\u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629: Lecco)\u200F\u060C \u0645\u062F\u064A\u0646\u0629 \u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0641\u064A \u0625\u0642\u0644\u064A\u0645 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627 \u0648\u0639\u0627\u0635\u0645\u0629 \u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0643\u0648 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 47.006 \u0646\u0633\u0645\u0629\u060C \u062A\u0628\u0639\u062F \u0639\u0646 \u0645\u062F\u064A\u0646\u0629 \u0645\u064A\u0644\u0627\u0646\u0648 50 \u0643\u0645 \u0634\u0645\u0627\u0644\u0627 \u0639\u0646\u062F \u0627\u0644\u0637\u0631\u0641 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0627\u0644\u0634\u0631\u0642\u064A \u0644\u0628\u062D\u064A\u0631\u0629 \u0643\u0648\u0645\u0648 \u062D\u064A\u062B \u062A\u0636\u064A\u0642 \u0634\u064A\u0626\u0627 \u0641\u0634\u064A\u0626\u0627 \u0644\u064A\u062A\u0634\u0643\u0644 \u0646\u0647\u0631 \u0623\u062F\u0627 \u0627\u0644\u0630\u064A \u0639\u0644\u064A\u0647 \u062B\u0644\u0627\u062B\u0629 \u062C\u0633\u0648\u0631 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0644\u064A\u0643\u0648.\u0625\u0630\u0627 \u0643\u0627\u0646 \u0643\u0648\u0645\u0648 \u0647\u0648 \u0627\u0644\u062C\u0627\u0646\u0628 \u0627\u0644\u0630\u064A \u0623\u0635\u0628\u062D \u0645\u0639\u0631\u0648\u0641\u064B\u0627 \u0644\u0644\u0633\u064A\u0627\u062D \u0628\u0633\u0628\u0628 \u0648\u062C\u0648\u062F \u0627\u0644\u0641\u0646\u0627\u062F\u0642 \u0627\u0644\u0643\u0628\u064A\u0631\u0629 \u060C \u0641\u0625\u0646 \u0641\u0631\u0639 \u0644\u064A\u0643\u0648 \u0647\u0648 \u0627\u0644\u0623\u0647\u0645 \u062A\u0627\u0631\u064A\u062E\u064A\u064B\u0627 \u0648\u0645\u0639 \u0623\u062C\u0645\u0644 \u0628\u062D\u064A\u0631\u0629 \u0648\u062C\u0628\u0644 \u060C \u062F\u0631\u0633 \u0644\u0641\u062A\u0631\u0629 \u0637\u0648\u064A\u0644\u0629 \u0645\u0646 \u0642\u0628\u0644 \u0644\u064A\u0648\u0646\u0627\u0631\u062F\u0648 \u062F\u0627\u0641\u0646\u0634\u064A \u060C \u0647\u0646\u0627 \u0627\u0644\u0645\u062D\u062C\u0648\u0632 \u0648\u0627\u0644\u0641\u064A\u0644\u0627\u062A \u0627\u0644\u0645\u062E\u0641\u064A\u0629 \u0644\u0643\u0628\u0627\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064A\u064A\u0646 \u0648\u0627\u0644\u0646\u0628\u0644\u0627\u0621 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u064A\u0646 \u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0646\u0628\u0644\u0627\u0621 \u0631\u0648\u0645\u0627 \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0641\u064A\u0644\u0627 \u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0644\u0628\u0644\u064A\u0646\u064A \u0627\u0644\u0623\u0635\u063A\u0631 \u0641\u064A \u0642\u0631\u064A\u0629 \u0644\u064A\u064A\u0631\u0646\u0627 \u0627\u0644\u0633\u0631\u064A\u0629 \u060C \u0645\u0643\u0627\u0646 \u062A\u0623\u0633\u064A\u0633 \u0648\u0633\u0627\u0645 \u0641\u0627\u0631\u0633 \u0645\u0646 \u0627\u0644\u0639\u0627\u0626\u0644\u0629 \u0627\u0644\u0645\u0627\u0644\u0643\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0641\u064A \u0633\u0627\u0641\u0648\u064A."@ar ,
+		"\uB808\uCF54(Lecco)\uB294 \uC774\uD0C8\uB9AC\uC544 \uBD81\uBD80 \uB86C\uBC14\uB974\uB514\uC544\uC8FC\uC758 \uB3C4\uC2DC\uB85C, \uB808\uCF54\uB3C4\uC758 \uD604\uB3C4\uC774\uB2E4. \uBC00\uB77C\uB178\uC5D0\uC11C \uC57D 50km \uBD81\uCABD\uC5D0 \uC704\uCE58\uD574 \uC788\uB2E4. \uCF54\uBAA8 \uD638\uC218\uC758 \uCF54\uBAA8\uAC00 \uD070 \uD638\uD154\uC774 \uC874\uC7AC\uD558\uC5EC \uAD00\uAD11\uAC1D\uB4E4\uC5D0\uAC8C \uC54C\uB824\uC9C4 \uACBD\uC6B0, \uB808\uCF54 \uC9C0\uC810\uC740 \uC5ED\uC0AC\uC801\uC73C\uB85C \uAC00\uC7A5 \uC911\uC694\uD558\uACE0 \uB3C5\uC810\uC801\uC774\uBA70 \uAC00\uC7A5 \uC544\uB984\uB2E4\uC6B4 \uD638\uC218\uC640 \uC0B0 \uD658\uACBD\uC73C\uB85C L\u00E9onard de Vinci\uAC00 \uC624\uB7AB\uB3D9\uC548 \uACF5\uBD80\uD588\uC2B5\uB2C8\uB2E4. , \uC5EC\uAE30\uC5D0\uC11C \uC704\uB300\uD55C \uC774\uD0C8\uB9AC\uC544 \uC0B0\uC5C5 \uC8FC\uC758\uC790\uB4E4\uACFC \uADC0\uC871\uB4E4\uC758 \uAE30\uBC00\uC801\uC774\uACE0 \uC228\uACA8\uC9C4 \uBE4C\uB77C\uC640 \uACE0\uB300 \uB85C\uB9C8\uC758 \uADC0\uC871\uB4E4, \uBE4C\uB77C \uCF54\uBBF8\uB514\uC544 \uB4DC \uD50C\uB9AC \uB178 (Villa Comedia de Plinio)\uB97C \uD3EC\uD568\uD558\uC5EC \uB9AC\uB098 (Liena)\uC758 \uBE44\uBC00 \uB9C8\uC744\uC5D0\uC788\uB294 \uC80A\uC740\uC774, \uC0AC\uBCF4\uC774\uC758 \uC774\uD0C8\uB9AC\uC544 \uC655\uC2E4."@ko ,
+		"Lecco (en italiano, Provincia di Lecco) es una provincia italiana de la regi\u00F3n de Lombard\u00EDa, en el norte de Italia. Tiene una poblaci\u00F3n estimada, a fines de marzo de 2022, de 332 203 habitantes.\u200B Su capital es la ciudad de Lecco."@es ,
+		"Lecco \u00E9 uma comuna italiana da regi\u00E3o da Lombardia, prov\u00EDncia de Lecco, com cerca de 45.507 habitantes. Estende-se por uma \u00E1rea de 45 km\u00B2, tendo uma densidade populacional de 1011 hab/km\u00B2. Faz fronteira com Abbadia Lariana, Ballabio, Brumano (BG), Erve, Galbiate, Garlate, Malgrate, Mandello del Lario, Morterone, Pescate, Valmadrera, Vercurago. A cidade \u00E8 muito conhecida por ser um dos lugares da ambienta\u00E7\u00E3o dos Noivos de Alessandro Manzoni."@pt ,
+		"Lecco \u2212 miasto i gmina we W\u0142oszech, w regionie Lombardia, w prowincji Lecco. Wed\u0142ug danych na rok 2004 gmin\u0119 zamieszkiwa\u0142o 45 507 os\u00F3b, 1011,3 os./km\u00B2. W mie\u015Bcie znajduje si\u0119 stacja kolejowa Lecco. Lecco zosta\u0142o uhonorowane tytu\u0142em Alpejskiego Miasta Roku 2013."@pl ,
+		"La prov\u00EDncia de Lecco \u00E9s una prov\u00EDncia que forma part de la regi\u00F3 de Llombardia dins It\u00E0lia. La seva capital \u00E9s Lecco. Limita al nord i a l'oest amb la prov\u00EDncia de Como, a l'est i al nord amb la prov\u00EDncia de Sondrio, a l'est amb la prov\u00EDncia de B\u00E8rgam i al sud amb la prov\u00EDncia de Monza i Brianza. T\u00E9 una \u00E0rea de 814,58 km\u00B2, i una poblaci\u00F3 total de 339.384 hab. (2016). Hi ha 88 municipis a la prov\u00EDncia."@ca ,
+		"Lecco (AFI: [\u02C8lekko], pronuncia locale [\u02C8l\u025Bkko], , L\u00E8cch in dialetto lecchese [\u02C8l\u025Bk]) \u00E8 un comune italiano di 47 087 abitanti, capoluogo della provincia omonima in Lombardia. Elevato a capoluogo di provincia con decreto del presidente della Repubblica del 6 marzo 1992, ottenne il titolo di citt\u00E0 il 22 giugno 1848 e ad oggi il suo agglomerato urbano supera i centomila abitanti. Nota per essere il luogo in cui lo scrittore Alessandro Manzoni ambient\u00F2 I promessi sposi, la citt\u00E0 \u00E8 situata in uno dei vertici del Triangolo Lariano, sulla sinistra idrografica dell'Adda oltre ad affacciarsi sul ramo orientale del lago di Como ed \u00E8 compresa nelle prealpi orobiche, tra il gruppo delle Grigne e il Resegone. Crocevia strategico per la Valtellina attraverso la Valsassina, Lecco assunse crescente importanza durante il Medioevo quando, a seguito della Pace di Costanza, fu annessa al Ducato di Milano che le confer\u00EC l'attuale impianto urbanistico, frutto dell'unificazione di dieci ben distinti comuni ciascuno sede di una propria parrocchia, ma fu nella seconda met\u00E0 dell'XIX secolo, durante il dominio austriaco, che la citt\u00E0 attravers\u00F2 un periodo particolarmente fiorente che port\u00F2 alla costruzione di palazzi e portici in stile neoclassico. Dopo l'Unit\u00E0 d'Italia Lecco si afferm\u00F2 come uno dei primi centri industriali d'Italia grazie allo sviluppo delle industrie siderurgiche, gi\u00E0 attive nel XII secolo, che le conferirono l'appellativo di citt\u00E0 del ferro, e complet\u00F2 il suo processo di crescita nel 1995 quando fu elevata a capoluogo di provincia, una delle quattro moderne della Regione."@it ,
+		"Leccoko probintzia Italiako iparraldean eta Lonbardiako eskualdean kokatuta dago. Lecco hiri nagusia eta hiriburua da."@eu ,
+		"Prowincja Lecco (w\u0142. Provincia di Lecco) \u2013 prowincja we W\u0142oszech. Nadrz\u0119dn\u0105 jednostk\u0105 podzia\u0142u administracyjnego jest region (tu: Lombardia), a podrz\u0119dn\u0105 jest gmina. Liczba gmin w prowincji: 90."@pl ,
+		"Lecco Italiako udalerri bat da. Leccoko probintzian kokatuta dago, Lombardia eskualdean. 48.177 biztanle ditu, 45,14 kilometro koadroko azaleran banatuta."@eu ,
+		"Lecco (lombardisch: L\u00E8cch [\u02C8l\u025Bk\u02D0]; dt. veraltet: Leck) ist eine italienische Gemeinde und Hauptstadt der gleichnamigen Provinz Lecco in der Region Lombardei mit 48.173 (Stand 31. Dezember 2019) Einwohnern."@de ;
+	dbo:wikiPageWikiLink	dbr:Adda_River ,
+		dbr:Flixbus ,
+		dbr:Szombathely ,
+		dbr:Giro_di_Lombardia ,
+		dbr:Valtellina ,
+		dbr:Alpine_Town_of_the_Year ,
+		dbr:Cisalpine_Republic ,
+		<http://dbpedia.org/resource/Bellagio,_Lombardy> ,
+		dbr:Napoleon ,
+		dbr:Verdi ,
+		dbc:Cities_and_towns_in_Lombardy ,
+		<http://dbpedia.org/resource/The_Betrothed_(Manzoni_novel)> ,
+		dbr:Manuel_Locatelli ,
+		dbr:Mytishchi ,
+		dbr:Calcio_Lecco_1912 ,
+		dbr:Mauro_Gattinoni ,
+		dbr:Igualada ,
+		dbr:Belgium ,
+		dbr:Aida ,
+		dbr:La_forza_del_destino ,
+		dbr:Esino_Lario ,
+		dbr:Province_of_Lecco ,
+		dbr:Como ,
+		dbr:Saint_Nicholas ,
+		dbr:Alessandro_Manzoni ,
+		dbr:Brianza ,
+		dbr:Serie_C ,
+		dbr:Lake_Como ,
+		dbr:Kayak ,
+		dbr:House_of_Habsburg ,
+		dbr:Azzone_Visconti ,
+		<http://dbpedia.org/resource/M\u00E2con> ,
+		dbr:Fascism ,
+		dbr:Trenord ,
+		dbr:Lombardy ,
+		dbr:Canoeing ,
+		dbr:Antonio_Rossi ,
+		dbr:Lecco_railway_station ,
+		<http://dbpedia.org/resource/K\u00F6ppen_climate_classification> ,
+		<http://dbpedia.org/resource/Joseph_II,_Holy_Roman_Emperor> ,
+		dbr:Twin_towns_and_sister_cities ,
+		dbr:Antonio_Ghislanzoni ,
+		dbr:Mountain_range ,
+		dbr:Charles_V_of_France ,
+		<http://dbpedia.org/resource/Olt_(river)> ,
+		dbr:Visconti_of_Milan ,
+		dbr:Overijse ,
+		dbr:Second_Italian_War_of_Independence ,
+		<http://dbpedia.org/resource/Santi_Materno_e_Lucia,_Lecco> ,
+		dbr:Olympic_medalist ,
+		<http://dbpedia.org/resource/Santa_Maria_Gloriosa,_Lecco> ,
+		<http://dbpedia.org/resource/Santa_Marta,_Lecco> ,
+		dbr:Innocents_Abroad ,
+		dbr:Monte_Serrada ,
+		dbr:Como_Calcio_1907 ,
+		dbr:I_promessi_sposi ,
+		<http://dbpedia.org/resource/File:Casalucia.jpg> ,
+		<http://dbpedia.org/resource/File:Chiesa_Santi_Materno_e_Lucia.JPG> ,
+		dbr:Arriva_Italia ,
+		dbr:Castello_Sopra_Lecco ,
+		<http://dbpedia.org/resource/File:Resegone_da_lecco.jpg> ,
+		<http://dbpedia.org/resource/File:Villa_Manzoni.jpg> ,
+		<http://dbpedia.org/resource/File:Lake_Como_Lecco_Arm_1.jpg> ,
+		<http://dbpedia.org/resource/File:Lucia_mondella.jpg> ,
+		dbr:Monte_Barro ,
+		dbr:Monte_Resegone ,
+		dbr:Antonio_Stoppani ,
+		dbr:Scapigliatura ,
+		<http://dbpedia.org/resource/Minor_Basilica_of_San_Nicol\u00F2,_Lecco> ,
+		dbr:Valsassina ,
+		dbr:Lecco_Maggianico_railway_station ,
+		<http://dbpedia.org/resource/Laorca_cemetery_and_church,_Lecco> ,
+		<http://dbpedia.org/resource/San_Francesco_d\u0027Assisi,_Lecco> ,
+		<http://dbpedia.org/resource/San_Giovanni_Battista,_Lecco> ,
+		dbr:Acquate ,
+		dbr:Bergamo_Alps ,
+		dbr:Carlo_Mauri ,
+		<http://dbpedia.org/resource/Monte_San_Martino_(Lecco)> ,
+		dbr:ASF_Autolinee ,
+		dbr:Mario_Rigamonti ,
+		dbr:Association_football ,
+		dbc:Valsassina ,
+		dbr:Hungary ,
+		dbc:Lecco ,
+		dbr:Humid_subtropical_climate ,
+		dbr:Milan ,
+		dbr:Kingdom_of_Sardinia ,
+		<http://dbpedia.org/resource/Democratic_Party_(Italy)> ,
+		dbr:Mark_Twain ;
+	dbp:website	<http://www.comune.lecco.it> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lecco	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		dbt:Weather_box ,
+		dbt:Use_mdy_dates ,
+		dbt:Native_name ,
+		dbt:See_also ,
+		dbt:Flagicon ,
+		dbt:Short_description ,
+		dbt:Coord ,
+		dbt:Province_of_Lecco ,
+		dbt:Convert ,
+		dbt:Distinguish ,
+		dbt:IPA-lmo ,
+		dbt:Reflist ,
+		dbt:Quote ,
+		dbt:Infobox_Italian_comune ,
+		dbt:IPA-itdia ,
+		dbt:IPA-it ,
+		dbt:Lago_di_Como ,
+		dbt:ISBN ,
+		dbt:IPAc-en .
+@prefix ns16:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Lecco	dbp:wordnet_type	ns16:synset-city-noun-3 ;
+	dbp:location	"Lecco"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lecco_Grigna.jpg?width=300> ;
+	dbo:wikiPageRevisionID	1123467226 ;
+	dbo:wikiPageExternalLink	<https://www.eccolecco.it/en/manzonian-places-lecco/> ,
+		<https://en.climate-data.org/europa/italia/lombardy/lecco-1099/> ,
+		<http://trainspo.com/geo/8426348/gallery/> ,
+		<http://www.comune.lecco.it> ;
+	dbo:wikiPageLength	"32861"^^xsd:nonNegativeInteger ;
+	dbo:wikiPageID	249828 ;
+	dbp:name	"Lecco"@en .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-fr:Lecco .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-simple:Lecco .
+@prefix ns19:	<http://ast.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns19:Provincia_de_Lecco ,
+		<http://th.dbpedia.org/resource/\u0E08\u0E31\u0E07\u0E2B\u0E27\u0E31\u0E14\u0E40\u0E25\u0E01\u0E42\u0E01> .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-commons:Province_of_Lecco .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-la:Provincia_Leucensis ,
+		<http://ka.dbpedia.org/resource/\u10DA\u10D4\u10D9\u10DD\u10E1_\u10DE\u10E0\u10DD\u10D5\u10D8\u10DC\u10EA\u10D8\u10D0> ,
+		dbpedia-commons:Lecco ,
+		ns19:Lecco .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-vi:Lecco ,
+		<http://vi.dbpedia.org/resource/Lecco_(t\u1EC9nh)> ,
+		<http://war.dbpedia.org/resource/Lecco_(lalawigan)> ,
+		<http://be.dbpedia.org/resource/\u041B\u0435\u043A\u0430> ,
+		<http://fa.dbpedia.org/resource/\u0644\u06A9\u0648> .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-war:Lecco .
+@prefix ns24:	<http://ia.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns24:Provincia_de_Lecco ,
+		ns24:Lecco .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-sh:Lecco ,
+		<http://sh.dbpedia.org/resource/Lecco_(provincija)> ,
+		<http://d-nb.info/gnd/4256535-2> ,
+		<http://ca.dbpedia.org/resource/Prov\u00EDncia_de_Lecco> ,
+		<http://hr.dbpedia.org/resource/Lecco_(pokrajina)> .
+@prefix ns26:	<http://jv.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns26:Provinsi_Lecco .
+@prefix ns27:	<http://data.linkedopendata.it/scuole/resource/> .
+dbr:Lecco	owl:sameAs	ns27:LECCO ,
+		dbr:Lecco .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-es:Lecco ,
+		wikidata:Q6237 .
+@prefix dbpedia-bar:	<http://bar.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-bar:Provinz_Lecco ,
+		<http://os.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E> ,
+		<http://os.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E_(\u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438)> ,
+		<http://sws.geonames.org/6541997/> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-eo:Lecco .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-pl:Lecco .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-cy:Lecco .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-eu:Lecco ,
+		<http://ceb.dbpedia.org/resource/Lecco_(kapital_sa_lalawigan)> ,
+		dbpedia-eu:Leccoko_probintzia ,
+		<http://oc.dbpedia.org/resource/Prov\u00EDncia_de_Lecco> ,
+		<http://tt.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E> ,
+		<http://uk.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E> ,
+		<http://uk.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E_(\u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u044F)> .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Lecco	owl:sameAs	lgdt:node62505597 ,
+		<http://sv.dbpedia.org/resource/Lecco_(provins)> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-ca:Lecco .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-sv:Lecco .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-it:Provincia_di_Lecco .
+@prefix ns38:	<http://sco.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns38:Province_o_Lecco .
+@prefix ns39:	<http://nap.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns39:Lecco ,
+		dbpedia-eo:Provinco_Lecco ,
+		<http://ru.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E> ,
+		<http://d-nb.info/gnd/4585688-6> ,
+		<http://ru.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E_(\u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F)> ,
+		wikidata:Q16199 .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-sq:Provinca_e_Lekos ,
+		<http://arz.dbpedia.org/resource/\u0644\u064A\u0643\u0648_(\u062A\u062C\u0645\u0639_\u0633\u0643\u0627\u0646_\u0641\u0649_\u0645\u0642\u0627\u0637\u0639\u0647_\u0644\u064A\u0643\u0648)> .
+@prefix ns41:	<http://scn.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns41:Pruvincia_di_Leccu .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-no:Lecco ,
+		<http://no.dbpedia.org/resource/Lecco_(provins)> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-de:Provinz_Lecco ,
+		ns41:Leccu ,
+		<http://ko.dbpedia.org/resource/\uB808\uCF54_(\uB808\uCF54\uD604)> .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-vo:Lecco ,
+		<http://ko.dbpedia.org/resource/\uB808\uCF54\uB3C4> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-ms:Wilayah_Lecco ,
+		<http://viaf.org/viaf/140904374> ,
+		<http://ce.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E> .
+@prefix ns46:	<http://musicbrainz.org/area/> .
+dbr:Lecco	owl:sameAs	ns46:f613a91b-fdb4-4f6b-902d-935639955811 ,
+		<http://ja.dbpedia.org/resource/\u30EC\u30C3\u30B3_(\u30EC\u30C3\u30B3\u770C)> ,
+		<http://ja.dbpedia.org/resource/\u30EC\u30C3\u30B3\u770C> ,
+		<http://br.dbpedia.org/resource/Provi\u00F1s_Lecco> ,
+		<http://he.dbpedia.org/resource/\u05DC\u05E7\u05D5> ,
+		<http://he.dbpedia.org/resource/\u05DC\u05E7\u05D5_(\u05E0\u05E4\u05D4)> ,
+		<http://el.dbpedia.org/resource/\u039B\u03AD\u03BA\u03BA\u03BF_(\u03B5\u03C0\u03B1\u03C1\u03C7\u03AF\u03B1)> ,
+		<http://musicbrainz.org/area/8887d0f8-1d69-47b4-b386-114ca8393dff> ,
+		<http://el.dbpedia.org/resource/\u039B\u03AD\u03BA\u03BA\u03BF> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-cs:Provincie_Lecco .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-br:Lecco .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-tr:Lecco ,
+		<http://tr.dbpedia.org/resource/Lecco_(il)> ,
+		<http://sl.dbpedia.org/resource/Lecco_(pokrajina)> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-et:Lecco ,
+		dbpedia-et:Lecco_provints ,
+		<http://hy.dbpedia.org/resource/\u053C\u0565\u0584\u0578> ,
+		<http://hy.dbpedia.org/resource/\u053C\u0565\u0584\u0578_(\u0563\u0561\u057E\u0561\u057C)> .
+@prefix ns51:	<http://vec.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns51:Provincia_de_Leco ,
+		<http://d-nb.info/gnd/5553224-X> ,
+		<http://rdf.freebase.com/ns/m.01l24q> ,
+		ns51:Leco ,
+		dbpedia-ms:Lecco .
+@prefix ns52:	<http://lv.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns52:Leko ,
+		ns52:Leko_province ,
+		<http://sws.geonames.org/6458616/> ,
+		<http://pnb.dbpedia.org/resource/\u0636\u0644\u0639_\u0644\u0686\u0648> ,
+		dbpedia-cs:Lecco .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-sw:Lecco ,
+		<http://kk.dbpedia.org/resource/\u041B\u0435\u043A\u043A\u043E> .
+@prefix ns54:	<https://global.dbpedia.org/id/> .
+dbr:Lecco	owl:sameAs	ns54:cEXx ,
+		<http://ur.dbpedia.org/resource/\u0644\u06CC\u06A9\u0648> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-fi:Lecco ,
+		dbpedia-fi:Leccon_maakunta ,
+		<http://da.dbpedia.org/resource/Lecco_(provins)> ,
+		<http://pms.dbpedia.org/resource/Provincia_\u00EBd_Lech> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-da:Lecco .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-pms:Lech ,
+		<http://ur.dbpedia.org/resource/\u0635\u0648\u0628\u06C1_\u0644\u06CC\u06A9\u0648> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-nn:Provinsen_Lecco .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-id:Provinsi_Lecco .
+@prefix ns60:	<http://uz.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns60:Lecco ,
+		<http://uz.dbpedia.org/resource/Lecco_(provinsiya)> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-sk:Lecco ,
+		<http://sk.dbpedia.org/resource/Lecco_(provincia)> ,
+		dbpedia-nn:Lecco .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-gl:Provincia_de_Lecco ,
+		<http://lt.dbpedia.org/resource/Lekas_(Italija)> .
+@prefix ns63:	<http://lt.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns63:Leko_provincija .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lecco	owl:sameAs	yago-res:Lecco ,
+		<http://nl.dbpedia.org/resource/Lecco_(provincie)> ,
+		<http://nl.dbpedia.org/resource/Lecco_(stad)> ,
+		dbpedia-gl:Lecco ,
+		<http://viaf.org/viaf/263626055> ,
+		dbpedia-es:Provincia_de_Lecco ,
+		dbpedia-de:Lecco ,
+		<http://la.dbpedia.org/resource/Leucum_(Italia)> ,
+		<http://sr.dbpedia.org/resource/\u041B\u0435\u043A\u043E_(\u0433\u0440\u0430\u0434)> ,
+		<http://sr.dbpedia.org/resource/\u041B\u0435\u043A\u043E_(\u043E\u043A\u0440\u0443\u0433)> ,
+		dbpedia-id:Lecco ,
+		<http://ar.dbpedia.org/resource/\u0645\u0642\u0627\u0637\u0639\u0629_\u0644\u064A\u0643\u0648> ,
+		dbpedia-fr:Province_de_Lecco .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-ro:Provincia_Lecco .
+@prefix ns66:	<http://tl.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns66:Lecco ,
+		<http://ckb.dbpedia.org/resource/\u067E\u0627\u0631\u06CE\u0632\u06AF\u0627\u06CC_\u0644\u06CE\u06A9\u06C6> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-lmo:Pruvincia_de_Lecch ,
+		<http://zh.dbpedia.org/resource/\u840A\u79D1\u7701> ,
+		dbpedia-lmo:Lecch ,
+		<http://zh.dbpedia.org/resource/\u840A\u79D1> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-hu:Lecco ,
+		dbpedia-hu:Lecco_megye ,
+		dbpedia-it:Lecco ,
+		<http://bg.dbpedia.org/resource/\u041B\u0435\u043A\u043E_(\u0433\u0440\u0430\u0434)> ,
+		<http://bg.dbpedia.org/resource/\u041B\u0435\u043A\u043E_(\u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F)> ,
+		dbpedia-pl:Prowincja_Lecco .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-ga:Lecco ,
+		<http://az.dbpedia.org/resource/Lekko_\u0259yal\u0259ti> ,
+		<http://ar.dbpedia.org/resource/\u0644\u064A\u0643\u0648> ,
+		dbpedia-ro:Lecco ,
+		<http://fa.dbpedia.org/resource/\u0627\u0633\u062A\u0627\u0646_\u0644\u06A9\u0648> ,
+		dbpedia-simple:Province_of_Lecco ,
+		<http://dati.isprambiente.it/id/place/97042> .
+@prefix ns70:	<http://ceb.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	ns70:Provincia_di_Lecco .
+@prefix dbpedia-ku:	<http://ku.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-ku:Lecco .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lecco	owl:sameAs	dbpedia-pt:Lecco ,
+		<http://pt.dbpedia.org/resource/Lecco_(prov\u00EDncia)> ,
+		<http://d-nb.info/gnd/1020559-7> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Lecco	georss:point	"45.85 9.4" .
+@prefix gold:	<http://purl.org/linguistics/gold/> .
+dbr:Lecco	gold:hypernym	dbr:City ;
+	schema:sameAs	<http://viaf.org/viaf/140904374> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lecco	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lecco?oldid=1123467226&ns=0> ;
+	dbp:imageCaption	"Piazza XX Settembre, in the centre of the town, and the San Martino mountain."@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lecco ;
+	dbo:populationAsOf	"2017-09-30"^^xsd:date ;
+	dbo:elevation	"214.0"^^xsd:double ;
+	dbp:areaCode	341 ;
+	dbo:areaCode	"0341" ;
+	dbp:elevationM	214 ;
+	dbp:imageSkyline	"Lecco Grigna.jpg"@en ;
+	dbp:aprRainMm	99 ;
+	dbp:sepRainMm	105 ;
+	dbp:novRainMm	107 ;
+	dbp:junRainMm	117 ;
+	dbp:mayRainMm	112 ;
+	dbp:febRainMm	59 ;
+	dbp:decRainMm	69 ;
+	dbp:marRainMm	72 ;
+	dbp:julRainMm	92 ;
+	dbp:augRainMm	111 ;
+	dbp:janRainMm	60 ;
+	dbp:octRainMm	115 .
+@prefix ogcgs:	<http://www.opengis.net/ont/geosparql#> .
+dbr:Lecco	geo:geometry	"POINT(9.3999996185303 45.849998474121)"^^ogcgs:wktLiteral ;
+	dbp:populationAsOf	"2017-09-30"^^xsd:date ;
+	dbo:populationTotal	"48366"^^xsd:nonNegativeInteger ;
+	dbp:populationTotal	48366 ;
+	dbp:officialName	"Citt\u00E0 di Lecco"@en ;
+	dbo:country	dbr:Italy ;
+	dbp:imageFlag	"Flag of Lecco.gif"@en ;
+	dbp:mayor	dbr:Mauro_Gattinoni ;
+	dbo:leaderParty	<http://dbpedia.org/resource/Democratic_Party_(Italy)> ;
+	dbo:saint	dbr:Saint_Nicholas ;
+	dbp:rainColour	"green"@en .
+@prefix dbd:	<http://dbpedia.org/datatype/> .
+@prefix ns78:	<http://dbpedia.org/ontology/PopulatedPlace/> .
+dbr:Lecco	ns78:areaTotal	"45.14"^^dbd:squareKilometre ;
+	dbp:populationDemonym	"Lecchesi"@en ;
+	dbp:postalCode	23900 ;
+	dbp:areaTotalKm	"45.14"^^xsd:double ;
+	dbo:areaTotal	"45140000.0"^^xsd:double ;
+	dbo:postalCode	"23900" ;
+	dbp:imageShield	"Lecco-Stemma.png"@en ;
+	dbp:source	"climate-data.org and ilMeteo"@en ;
+	dbp:width	"77.0"^^dbd:perCent ;
+	dbo:frazioni	dbr:Acquate ,
+		<http://dbpedia.org/resource/Laorca_cemetery_and_church,_Lecco> ,
+		dbr:Province_of_Lecco ;
+	dbp:frazioni	"Acquate, Belledo, Bonacina, Castello, Chiuso, Germanedo, Laorca, Lecco, Maggianico, Malavedo, Olate, Pescarenico, Rancio, San Giovanni, Santo Stefano"@en ;
+	dbp:day	"--12-06"^^xsd:gMonthDay ;
+	dbo:region	dbr:Lombardy ;
+	dbo:province	dbr:Province_of_Lecco ;
+	dbp:saint	dbr:Saint_Nicholas ;
+	dbo:leaderName	dbr:Mauro_Gattinoni ;
+	dbp:mayorParty	<http://dbpedia.org/resource/Democratic_Party_(Italy)> ;
+	dbp:region	dbr:Lombardy ;
+	dbp:decLowC	0 ;
+	dbp:octLowC	"8.699999999999999"^^xsd:double ;
+	dbp:metricFirst	"yes"@en ;
+	dbp:mayHighC	"16.2"^^xsd:double ;
+	dbp:febHumidity	75 ;
+	dbp:febHighC	"4.2"^^xsd:double ;
+	dbp:novHumidity	78 ;
+	dbp:augHumidity	68 ;
+	dbp:octHighC	"12.9"^^xsd:double ;
+	dbp:augHighC	"21.3"^^xsd:double ;
+	dbp:octHumidity	75 ;
+	dbp:mayHumidity	69 ;
+	dbp:aprHighC	"12.4"^^xsd:double ;
+	dbp:marHumidity	68 ;
+	dbp:junHighC	"19.7"^^xsd:double ;
+	dbp:novLowC	"3.6"^^xsd:double ;
+	dbp:novHighC	"7.2"^^xsd:double ;
+	dbp:sepHighC	"18.4"^^xsd:double ;
+	dbp:febLowC	"0.3"^^xsd:double ;
+	dbp:julLowC	"16.8"^^xsd:double ;
+	dbp:augLowC	"16.2"^^xsd:double ;
+	dbp:janHumidity	75 ;
+	dbp:julHumidity	67 ;
+	dbp:janLowC	"-1.3"^^xsd:double ;
+	dbp:decHighC	"3.3"^^xsd:double ;
+	dbp:singleLine	"y"@en ;
+	dbp:julHighC	"22.2"^^xsd:double ;
+	dbp:junHumidity	67 ;
+	dbp:aprLowC	"7.2"^^xsd:double ;
+	dbp:janHighC	"2.1"^^xsd:double ;
+	dbp:decHumidity	79 ;
+	dbp:marHighC	"8.199999999999999"^^xsd:double ;
+	dbp:marLowC	"3.3"^^xsd:double ;
+	dbp:sepLowC	"13.6"^^xsd:double ;
+	dbp:mayLowC	"11.1"^^xsd:double ;
+	dbp:aprHumidity	71 ;
+	dbp:junLowC	"14.5"^^xsd:double ;
+	dbp:sepHumidity	71 ;
+	dbp:province	dbr:Province_of_Lecco .
+dbr:Alessandro_Manzoni	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Milan\u2013Asso_railway>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Como	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2020\u201321_Serie_C>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1960_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1962_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Andrea_Conti_(footballer,_born_1994)>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Daniele_Padelli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:List_of_twin_towns_and_sister_cities_in_Spain	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_twin_towns_and_sister_cities_in_Russia	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_twin_towns_and_sister_cities_in_Belgium	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_long-distance_footpaths	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ezio_Frigerio	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+dbr:Madonna_of_the_Yarnwinder	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_wins_by_Team_Katusha_and_its_successors	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Suello	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Antonio_Rossi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:List_of_football_clubs_in_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Sky_blue	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Jacopo_Scaccabarozzi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+<http://dbpedia.org/resource/2012_Giro_di_Lombardia>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/C._F._Powell>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pan_flute	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lisa_Lage	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ezio_Vigorelli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Chiara_Luzzana	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Alessandro_Papetti	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pablo_Atchugarry	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2012\u201313_Serie_D>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Michele_Conti_(motorcyclist)>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+<http://dbpedia.org/resource/1999\u20132000_A.S._Roma_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2001\u201302_A.C._ChievoVerona_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+<http://dbpedia.org/resource/IIHF_World_Women\u0027s_Championship>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Adalgisa_Gabbi	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2015\u201316_Serie_D>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Nino_Castelnuovo	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Carlo_Gaddi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Roberto_Castelli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:residence	dbr:Lecco ;
+	dbp:residence	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+<http://dbpedia.org/resource/San_Marino,_Pavia>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Serafino_Morazzone	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+<http://dbpedia.org/resource/Provost_(religion)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Battle_of_Desio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lecce	owl:differentFrom	dbr:Lecco .
+dbr:Overijse	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Imbersago	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2007\u201308_A.C._Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Grande_Fratello_(season_14)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Vidin	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1992\u201393_S.S._Lazio_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Aureliano_Brandolini	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Renzo_Pecco	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_twin_towns_and_sister_cities_in_France	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Olginate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Province_of_Lecco	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:seat	dbr:Lecco .
+dbr:Valgreghentino	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Calolziocorte	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Vercurago	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Airuno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Galbiate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Garlate	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2008\u201309_Lega_Pro_Prima_Divisione>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2011\u201312_Lega_Pro_Seconda_Divisione>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Giuseppe_Di_Vittorio	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+dbr:Lisa_Rands	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lombardy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Guelphs_and_Ghibellines	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Szombathely	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_tallest_clock_towers	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Riccardo_Cassin	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_medical_ethics_cases	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Bellagio,_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Barzago	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Sirtori	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Dolzago	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Sirone	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Garbagnate_Monastero	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Castello_di_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Barzan\u00F2>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Walter_Bonatti	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Fiocchi_Munizioni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:locationCity	dbr:Lecco .
+<http://dbpedia.org/resource/The_Betrothed_(Manzoni_novel)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_gymnasts_at_the_1952_Summer_Olympics	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Francesca_Ciceri	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+dbr:Karuppampatti	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:IFSC_Climbing_European_Championships	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Transport_in_Milan	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2000\u201301_Inter_Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+<http://dbpedia.org/resource/1999\u20132000_Inter_Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lecco_railway_station	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:borough	dbr:Lecco .
+dbr:Arcore_railway_station	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Vehicle_registration_plates_of_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ezio_Gianola	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Military_cableways_in_the_First_World_War	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Antonio_Stoppani	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Monte_Resegone	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lecco_Maggianico_railway_station	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:borough	dbr:Lecco .
+<http://dbpedia.org/resource/Laorca_cemetery_and_church,_Lecco>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Valsassina	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Acquate	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:type	dbr:Lecco ;
+	dbp:subdivisionName	dbr:Lecco ;
+	dbo:subdivision	dbr:Lecco .
+<http://dbpedia.org/resource/San_Francesco_d\u0027Assisi,_Lecco>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/San_Giovanni_Battista,_Lecco>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:ASF_Autolinee	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Carlo_Mauri	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Santa_Maria_Gloriosa,_Lecco>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Santa_Marta,_Lecco>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Santi_Materno_e_Lucia,_Lecco>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Una_grande_famiglia	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco ;
+	dbo:location	dbr:Lecco .
+dbr:Stadio_Rigamonti-Ceppi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:location	dbr:Lecco .
+dbr:Roberto_Maggioni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Romano_Sgheiz	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Rosita_Rota_Gelpi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Riccardo_Gatti	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Riccardo_Tantardini	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Rinaldo_Ossola	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Virginio_Brivio	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Massimo_Codol	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Matteo_Placida	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Mauro_Gilardi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Elisabetta_Sancassani	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Elisabetta_Tona	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Enrico_Falck	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco ;
+	dbp:constituency	dbr:Lecco .
+dbr:Franco_Sancassani	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Gabriele_Bosisio	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Gian_Matteo_Fagnini	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Gilberto_Elsa	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Gioia_Marzocca	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Giorgio_Brambilla	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Andrea_Panizza	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Angelo_Longoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Anna_Pirovano	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Anselmo_Robbiati	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Antonella_Faggi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Antonio_Saverio	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Lorenzo_Bodega	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Luca_Colnaghi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Luca_Fusi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Sigrid_Corneo	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Silvia_Scalia	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Silvia_Valsecchi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Simone_Petilli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Baby_Gang	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Bruno_Gamba	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Alfredo_Chiappori	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Daniele_Cavaliero	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Daniele_Gilardoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Daniele_Stefanoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Ermanno_Fasoli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Fabio_Bonacina	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Fabio_Buzzi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Fabio_Triboli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Federico_Gattinoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Federico_Pelizzari	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+<http://dbpedia.org/resource/Federico_Viviani_(footballer,_born_1992)>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Filippo_Conca	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Nino_Castelli	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Oscar_Pozzi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Paola_Pozzoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Paola_Testa	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Jacopo_Cerutti	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Laura_Bruschini	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Marcantonio_Stiffi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Marco_Bergamini	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Marco_Turati	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Marco_Valtulina	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Maria_Anna_Sala	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Maria_Ripamonti	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Martino_Goretti	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Sofia_Cantore	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Michela_Vittoria_Brambilla	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Betty_Curtis	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:deathPlace	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+dbr:Elio_Romani	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:deathPlace	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+dbr:Luigi_Bartesaghi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:deathPlace	dbr:Lecco .
+dbr:Calco	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Canz\u00E9s_dialect>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Carenno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Carlo_Mornati	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Casargo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Casatenovo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cassago_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Primaluna	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Rogeno	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/San_Siro,_Como>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Santa_Maria_Ho\u00E8>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ennio_Morlotti	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Radio_Marconi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:locationCity	dbr:Lecco .
+<http://dbpedia.org/resource/1948_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2011_Leopard_Trek_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2012_Team_Katusha_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2012_Vintage_Yachting_Games>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:subdivisionName	dbr:Lecco ;
+	dbo:subdivision	dbr:Lecco .
+<http://dbpedia.org/resource/2013_Lombard_regional_election>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Barzio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Bosisio_Parini	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Bratt_Sinclaire	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:David_Pel	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Dervio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Arcadia_Productions	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Jos\u00E9_Nasazzi>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Perledo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pescate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Robbiate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Valmadrera	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Varenna	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Varenna-Esino-Perledo_station	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Vendrogno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Vestreno	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Vigan\u00F2>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lina_Bruna_Rasa	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_municipalities_of_Lombardy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_municipalities_of_the_Province_of_Lecco	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_museums_in_Province_of_Lecco	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_operas_by_Amilcare_Ponchielli	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_people_from_Milan	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_railway_stations_in_Lombardy	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1984_Giro_d\u0027Italia,_Stage_12_to_Stage_22>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1994_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Comasco-Lecchese_dialects	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cortenova	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Costa_Masnaga	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Crandola_Valsassina	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cremeno	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Salva_(cheese)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Eluana_Englaro	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Gaspare_Mainardi	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1996_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Civate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Civic_Planetarium_of_Lecco	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Colico	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Colle_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ello	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Gabrio_Serbelloni	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Grande_Fratello_(season_16)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Moggio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Monte_Marenzo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Montevecchia	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Monticello_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Morterone	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Milan_metropolitan_area	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1953_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1961\u201362_A.C._Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:team	dbr:Lecco .
+<http://dbpedia.org/resource/1966\u201367_Inter_Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco ;
+	dbp:team	dbr:Lecco .
+<http://dbpedia.org/resource/2018_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2018_Lombard_regional_election>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2010_Italian_local_elections>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2013\u201314_Serie_D>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Annone_di_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lecchese_dialect	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Lecco\u2013Bergamo_railway>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Lecco\u2013Milan_railway>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:start	dbr:Lecco ;
+	dbo:routeStart	dbr:Lecco .
+dbr:Lierna	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Line_S7_(Milan_suburban_railway_service)>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lomagna	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Lombardy_2_(Chamber_of_Deputies_constituency)>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:towns	dbr:Lecco .
+dbr:Longone_al_Segrino	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lorenzo_Sonego	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Stefanos_Tsitsipas_career_statistics	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Sueglio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Federal_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Taleggio_cheese	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:regiontown	dbr:Lecco .
+dbr:Music_of_Lombardy	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1997\u201398_Udinese_Calcio_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+<http://dbpedia.org/resource/1998\u201399_A.C._Milan_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1st_Bersaglieri_Regiment>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2000_Lombard_regional_election>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2005_Lombard_regional_election>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2006_Winter_Olympics_torch_relay>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Brumano	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cernusco_Lombardone	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cesana_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Tirano\u2013Lecco_railway>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:end	dbr:Lecco ;
+	dbo:routeEnd	dbr:Lecco .
+<http://dbpedia.org/resource/Tommy_Paul_(tennis)>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Torre_de\u0027_Busi>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Tremenico	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Tres_de_Febrero_Partido	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Giovanni_Ticozzi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lariosauro	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lombard_Legion	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Val_Pola_landslide	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2013_Team_Katusha_season>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2016\u201317_Serie_D>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Abbadia_Lariana	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Adda_(river)>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2006_Italian_local_elections>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2007\u201308_Serie_C1>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2009\u201310_Lega_Pro_Prima_Divisione>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Alternative_Insubric_orthographies	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Erminia_Dell\u0027Oro>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Erve	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:FS_Class_ALe_582	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/FS_Class_E.333>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/FS_Class_E.430>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ferrovia_della_Valtellina	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pagnona	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Parlasco	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pasturo	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Italian_Figure_Skating_Championships	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_Milan_S_Lines_stations	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Luigi_Morgari	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2001_Italian_Senate_election_in_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2003_Italian_Figure_Skating_Championships>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2004\u201305_U.S._Citt\u00E0_di_Palermo_season>	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:location	dbr:Lecco .
+<http://dbpedia.org/resource/2014\u201315_Serie_D>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Headstamp	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:History_of_Lecco	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:wikiPageRedirects	dbr:Lecco .
+dbr:Introbio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Introzzo	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2018\u201319_Serie_D>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Aldo_Cavalli	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/L\u0027Eco_di_Bergamo>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:La_Valletta_Brianza	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lake_of_Pusiano	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Taceno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Hide_and_Seek_World_Championship	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Monte_Tesoro	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Silvio_Poma	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Dorio,_Lombardy>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Margno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Maria_Laura_Mainetti	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Piona_Abbey	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Sonya_Caleffi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ferrovia_Alta_Valtellina	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Milan_S_Lines	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Milanese_dialect	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Milan\u2013Chiasso_railway>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Nibionno	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Oggiono	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Olgiate_Molgora	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Oliver_Zaugg	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Oliveto_Lario	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Canada_men\u0027s_national_intercrosse_team>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Carlo_Dell\u0027Avalle>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Carlo_Pizzi	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Carlotta_Ferrari	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Casimiro_Radice	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/Ram\u00F3n_Juli\u00E1n_Puigblanqu\u00E9>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cesina	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:World_Flying_Disc_Federation	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Netval_Research_Universities_Network	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:FIIC_Intercrosse_World_Championship	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Leko	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Rovagnate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Gian_Giacomo_Medici	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Streetwise_priest	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Radio_Classica	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pietro_Pensa	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Renato_Kizito_Sesana	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Rovegnatta_oil_field	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:The_Experience_of_Pain	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Strada_statale_36_del_Lago_di_Como_e_dello_Spluga	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Pescarenico	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:wikiPageRedirects	dbr:Lecco .
+dbr:Enrico_Falck__Tenure__1	dbo:constituencyDistrict	dbr:Lecco .
+<http://dbpedia.org/resource/2012_Vintage_Yachting_Games__Dervio__1>	dbo:subdivision	dbr:Lecco .
+dbr:Marc_Polmans	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2012_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1984_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/1956_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Submerged_floating_tunnel	dbo:wikiPageWikiLink	dbr:Lecco .
+<http://dbpedia.org/resource/2003_IIHF_Women\u0027s_World_Championships>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Patron_saints_of_places	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Cable_ferry	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Roberto_Formigoni	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+<http://dbpedia.org/resource/2019_Democratic_Party_(Italy)_leadership_election>	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Lombard_cuisine	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Gruppo_Lucchini	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:List_of_cities_with_defensive_walls	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Provinces_of_Italy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Polytechnic_University_of_Milan	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Giancarlo_Badessi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:Marco_Bonanomi	dbo:wikiPageWikiLink	dbr:Lecco ;
+	dbp:birthPlace	dbr:Lecco ;
+	dbo:birthPlace	dbr:Lecco .
+dbr:List_of_ancient_Ligurian_tribes	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Antonio_Ghislanzoni	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Malgrate	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Ballabio	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Politics_of_Lombardy	dbo:wikiPageWikiLink	dbr:Lecco .
+dbr:Merate	dbo:wikiPageWikiLink	dbr:Lecco .

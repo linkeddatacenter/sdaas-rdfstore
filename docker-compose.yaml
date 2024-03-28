@@ -1,0 +1,19 @@
+version: "3.3"
+
+services:
+
+  kb:
+    image: linkeddatacenter/sdaas-rdfstore
+    build:    
+      context: .
+      args:
+        - TEXT_INDEX=true
+        - GEO_SPATIAL=true 
+    ports:
+      - "80:8080"
+
+  lp:
+    image: linkeddatacenter/sdaas-lp
+    volumes:
+      - ./tests/data:/var/www/html/data
+  
