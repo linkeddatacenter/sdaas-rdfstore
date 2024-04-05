@@ -77,3 +77,10 @@ To push a new docker image to docker hub:
 NAME="linkeddatacenter/sdaas-rdfstore" MAJOR="2" MINOR="2" PATCH="1"
 docker buildx build --builder multi-arch-builder  --platform linux/arm64,linux/amd64 --build-arg MODE=prod --push -t $NAME:$MAJOR.$MINOR.$PATCH .
 ```
+
+## Credits and license
+
+Copyright (C) 2018-2024 LinkedData.Center SRL
+ - All Rights Reserved
+ 
+Permission to copy and modify is granted under the [MIT license](LICENSE)
