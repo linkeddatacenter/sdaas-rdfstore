@@ -8,7 +8,7 @@ RUN wget -O /blazegraph.war https://github.com/blazegraph/database/releases/down
 	unzip /blazegraph.war -d /sdaas
 
 ### production stage ###
-FROM jetty:9.4-jdk16-slim
+FROM jetty:9.4-jdk17-eclipse-temurin
 
 LABEL authors="enrico@linkeddata.center"
 

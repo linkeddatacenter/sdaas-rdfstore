@@ -71,14 +71,9 @@ To persist data and improve performances, you should mount as a fast volume the 
 To push a new docker image to docker hub:
 
 ```
-docker login
-NAME="linkeddatacenter/sdaas-rdfstore" MAJOR="2" MINOR="2" PATCH="0"
-docker build -t $NAME:$MAJOR.$MINOR.$PATCH .
-docker tag $NAME:$MAJOR.$MINOR.$PATCH $NAME:$MAJOR.$MINOR
-docker tag $NAME:$MAJOR.$MINOR.$PATCH $NAME:$MAJOR 
-docker tag $NAME:$MAJOR.$MINOR.$PATCH $NAME:latest 
-docker push $NAME:$MAJOR.$MINOR.$PATCH
-docker push $NAME:$MAJOR.$MINOR
-docker push $NAME:$MAJOR
-docker push $NAME:latest
+# docker login
+# docker buildx create --name multi-arch-builder
+
+NAME="linkeddatacenter/sdaas-rdfstore" MAJOR="2" MINOR="2" PATCH="1"
+docker buildx build --builder multi-arch-builder  --platform linux/arm64,linux/amd64 --build-arg MODE=prod --push -t $NAME:$MAJOR.$MINOR.$PATCH .
 ```
